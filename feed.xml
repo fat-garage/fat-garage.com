@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://fat-garage.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fat-garage.com/" rel="alternate" type="text/html" /><updated>2021-07-07T23:54:38-05:00</updated><id>https://fat-garage.com/feed.xml</id><title type="html">Fat Garage</title><subtitle>去中心化创投社区</subtitle><entry><title type="html">datadidi第三篇</title><link href="https://fat-garage.com/datadidi-three/" rel="alternate" type="text/html" title="datadidi第三篇" /><published>2021-07-08T00:00:00-05:00</published><updated>2021-07-08T00:00:00-05:00</updated><id>https://fat-garage.com/datadidi-three</id><content type="html" xml:base="https://fat-garage.com/datadidi-three/">&lt;h1 id=&quot;流水账一下nft出现的一些形态&quot;&gt;​流水账一下NFT出现的一些形态&lt;/h1&gt;
+
+&lt;p&gt;目前看到的对NFT最好的中文解释竟然来自中行原副行长王永利[1]：NFT是在区块链技术基础上衍生出的一种内含若干规则与信息的具有不可复制、不可分割的唯一性数字（编码）加密权益证明，用来表明某个数字物品的所有权归属。&lt;/p&gt;
+
+&lt;p&gt;第一部分，梳理一下最近看到的一些NFT形态[2]。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/2.png&quot; /&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/3.png&quot; /&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/4.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;相关链接&lt;/strong&gt;：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485324&amp;amp;idx=1&amp;amp;sn=823a31c533d989d2db4e29f6cbb03b28&amp;amp;chksm=fe624922c915c034509add88d20010a45445ffceeba632e89ec877ee4a1634231b68b190e880&amp;amp;scene=21#wechat_redirect&quot;&gt;人类，回到物物交换时代吧（下）&lt;/a&gt;&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/5.png&quot; /&gt;&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/6.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;来源：nansen research[3]&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/7.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;接下来，逼逼下下面这个图：NFT是媒体/媒介的变革。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/8.png&quot; /&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;对nft是全球媒体登记表的相关讨论&quot;&gt;对NFT是「全球媒体登记表」的相关讨论&lt;/h1&gt;
+
+&lt;p&gt;最早从Jess Walden的推特和博客中读到&lt;strong&gt;「一种嵌入元数据的数据结构」。&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/9.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Jess Walden当时的创业项目是Mediachain[4]，想要打造全球媒体的登记薄（入口），意思就是所有形式的媒体，都在这登记「元数据+ID」。后来他发现，这不是他自己或a16z能做到的事情，反而现在朝着这方向在飞速发展的，正是NFT。&lt;/p&gt;
+
+&lt;p&gt;现在的叙事中，我觉得比较本质的就是：&lt;strong&gt;全球媒体登记入口（canonical content registry）&lt;/strong&gt;。NFT是一个媒介变革，不只是艺术变革，艺术在我看来是NFT内容的一种，只是因为它先出现。大家看到的艺术家群体日益火热的兴趣和在大众看来炒作的行为是第一波上岸(onboarding)的表现，因为艺术家群体对媒介的变化足够敏感，他们就直接而抽象的表达自己和情感，无需解释太多。&lt;/p&gt;
+
+&lt;p&gt;但这显然不会限于艺术，随着媒介影响的深入，更多群体会无意识的“参与”进来。游戏玩家、更多看热闹的媒体工作者、curators信息挖掘者（&lt;strong&gt;web3行走的广告牌🚶‍♀️&lt;/strong&gt;）、见机投入的创业者、投（资）机者等等。我预测下一批会出现在&lt;strong&gt;游戏和粉丝经济中，或者两者结合&lt;/strong&gt;，围绕IP最适合建部落、尤其是活跃的兴趣部落。而游戏是承载人与世界关系的绝佳容器，游戏公会和学校就是两码事。&lt;/p&gt;
+
+&lt;h3 id=&quot;和xm姐的聊天中讨论了相似的概念&quot;&gt;和xm姐的聊天中，讨论了相似的概念&lt;/h3&gt;
+
+&lt;p&gt;其实在几个月前，我和xm姐的一次聊天中就讨论了非常相似的概念（参考文章：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247486162&amp;amp;idx=1&amp;amp;sn=8a3be2c46f2ccdf9a85534cee04fd06d&amp;amp;chksm=fe62447cc915cd6a657f8fa92c89930bb304c66a024ebb50babe258a9d8ed00cf7a497ecbaf5&amp;amp;scene=21#wechat_redirect&quot;&gt;一个平行的我&lt;/a&gt;）。当时我们说，什么时候AI会真正服务于个体呢？数字世界的平行人太遥远了吧。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;除了自己的思想，我们什么也自主不了。——笛卡尔《谈谈方法》&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;xm姐认为，&lt;strong&gt;人的行为终究会以某种方式自发的、自然的被放到一条大家承认的链上。&lt;/strong&gt;第一步是要将人的行为都放到这条链上去，探索怎么放合适。区块链要完成registry这一步，接下来AI才能够结合发挥非常大的作用，真正开始实现&lt;strong&gt;人在时间和空间上的拓展&lt;/strong&gt;（参见下文：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247486178&amp;amp;idx=1&amp;amp;sn=af2ea543e485390eb32d6b76ea207b96&amp;amp;chksm=fe62444cc915cd5a28f2bb126d8292aa0e4395a9c60b00ce48389f4197679d4710f95280469e&amp;amp;scene=21#wechat_redirect&quot;&gt;为什么加密货币、DEX、NFT、DAO和AI都指向一种人类世界的可能性？&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;点我跳转&lt;/p&gt;
+
+&lt;h3 id=&quot;读mcluhan媒介即信息好像又理解了点&quot;&gt;读mcluhan「媒介即信息」，好像又理解了点&lt;/h3&gt;
+
+&lt;p&gt;点我跳转&lt;/p&gt;
+
+&lt;p&gt;mcluhan给我的启发是，跳出媒介的内容，&lt;strong&gt;看媒介本身&lt;/strong&gt;。媒介就是人的延伸。&lt;/p&gt;
+
+&lt;p&gt;好，回到上面那个图中，你可以发现media附近回归的两个箭头↖︎。&lt;/p&gt;
+
+&lt;p&gt;我在想的是，重要的可能&lt;strong&gt;不是分散出去的箭头，而是回归的箭头&lt;/strong&gt;。也就是，所有的这些都是让这个&lt;strong&gt;登记表建立起来，或者这个技术标准的共识建立起来&lt;/strong&gt;（现在就是以太坊，我觉得以后也很可能是以太坊）。建立起来后，可组合性(composability) 就能玩起来了，通过可编程性(codification)建立新的商业（类淘宝商城）、社交媒体（类twitter）、广告分发系统等等。在乐高模式之下，价值会直接分配到每一层，加入网络即是参与共同富裕游戏（positive sum game)。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;这tM才是共同富裕。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;这个媒体登记表就是为了一个更大的创造的世界，一个更丰富有趣的游戏世界所准备的，真正让每一个人或多或少的参与其中，&lt;strong&gt;在游戏中生活，在生活中游戏&lt;/strong&gt;。我觉得短期内可能像Roblox、Yahaha[5]：等打造交互内容创作的平台可能会流行一阵，但长期更大的元宇宙就是以太坊。（Vincent说以太坊是没有酷炫前端的元宇宙yyds[6]）&lt;/p&gt;
+
+&lt;h1 id=&quot;探讨一下未来会出现的形态&quot;&gt;探讨一下未来会出现的形态&lt;/h1&gt;
+
+&lt;p&gt;意淫一下我希望出现的形态，之一。&lt;/p&gt;
+
+&lt;p&gt;一些有非常大粉丝群的如日本动漫ip、韩国娱乐ip等，为了使它纳入一个全球媒体登记表中，让全球的粉丝能够共享IP的发展。比如我们特攻队写过的quidd，quidd 最早是做表情包和动图的，有非常多的「经过授权的」动漫IP，产品主要是数字卡牌。将这些东西NFT化也是将其置于一个全球的登记表上（上链），成为一种可以不会因为主体丧失而一文不值的「资产」，成为一个技术标准下拥有ID的资产。&lt;/p&gt;
+
+&lt;p&gt;点我跳转&lt;/p&gt;
+
+&lt;h1 id=&quot;ownershiplabs-在lego游戏的哪里&quot;&gt;OwnershipLabs 在Lego游戏的哪里&lt;/h1&gt;
+
+&lt;p&gt;我只说两点比较重要的，也是团队最近讨论的。&lt;/p&gt;
+
+&lt;p&gt;第一，是打造「个人数据空间dataverse」，收集你自己的行为足迹👣 。这个听起来不sexy吗？换一种说法，这是在&lt;strong&gt;打造平行的自己&lt;/strong&gt;。我举个例子，现在有个叫POAP的dApp在你玩decentraland 和CV等虚拟空间的时候为你生成&lt;strong&gt;「参与证明 proof of attendence」&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“你因6/27到decentraland某中央公园美术馆参观 (坐标-62,-111)，得到了一枚POAP的勋章。”&lt;/p&gt;
+
+&lt;p&gt;相应的，Ownership会为你生成&lt;strong&gt;「注意力证明 proof of attention👀 」&lt;/strong&gt;，具体怎么实现先卖个关子。（其实是因为已经很长了，下次专门写一篇哈哈）&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/10.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;我之前讨论过&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485489&amp;amp;idx=1&amp;amp;sn=2ed05219c27d4f8f5e80d857c2d395ac&amp;amp;chksm=fe62469fc915cf89e673c47c0a7e27547202b5fe14d0a586c8a710396a4b5741f0158f00a684&amp;amp;scene=21#wechat_redirect&quot;&gt;注意力的重要性&lt;/a&gt;，当它稀缺到成为一种资产的时候（也就是现在），也是它纳入到这个全球媒体表的时候。没错，除了艺术之外，人的行为还有很多，注意力也会以某种方式（比如datatoken,NFT) 被“资产化”在链上，并为了&lt;strong&gt;更好的匹配&lt;/strong&gt;而流通。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/11.png&quot; /&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;更重要的是，NFT的每个地址的所有交易数据历史，非常详细，完全公开，这种公开性和精细度是传统金融根本无法做到的。商家可以根据每个地址的数据给其画像，判断这个地址的购买力，购买兴趣，等等，然后再空投token,给予它某种商品或服务的优惠，如果地址的主人没兴趣，这种token反过来也可以拿到uniswap上转卖。每一步操作，都是一个精准画像的过程，整体上长期看，&lt;strong&gt;会促进买卖双方更加精准匹配，节省大量(因为错配而导致像无头苍蝇一样乱撞而浪费的)社会资源。&lt;/strong&gt;——硅谷王川&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;第二，个人数据空间建立后，数据科学家可以&lt;strong&gt;基于你的空间数据进行编程&lt;/strong&gt;，存储（Filcoin、IPFS）、身份认证（3box）等基础设施将同步发展。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/07/08/12.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;dataverse就是虚拟大脑 （虚拟空间理解为一个操作系统），全球的数据科学家可以在我大脑里进行编程，所有的数据计算过程均可追溯，同时这完全经过了你的授权。&lt;/p&gt;
+
+&lt;p&gt;NFT正在以各种我们无法理解的形式层出不穷，去中心化的大潮汹涌而美丽。记得一年前，在Ampleforth白皮书中看到这样一段话，&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;说得更复杂一些，未来货币最终形态可能不会是传统可靠货币架构 （计价单位、交换媒介、价值储存） 简单映射在链上。如今我们探索的新世界中，资产可以经过数字「封装」和编程，让我们能以最小摩擦和交易成本兑换、定价和价值储存。我们依赖的货币功能最终可能会经过解绑、再捆绑，未来以我们&lt;strong&gt;现在无法理解的形态&lt;/strong&gt;呈现。&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;——Ampleforth的货币实验&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我突然发现写到这没有结论了，其实我也不想下结论;)。我想做的就是将一些重点，反复的讨论，反复的链接，直到一些更有趣的东西被冲上岸。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“让大家的注意力得到善待”&lt;/em&gt;，这件事一直萦绕在心上，总得做些东西出来、探索些东西出来enable它。于是我们在李博招呼下一起做&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg3MzUzMDE3Mg==&amp;amp;mid=2247483706&amp;amp;idx=1&amp;amp;sn=8edeb531a7f05825a7f3ae8bc3fd5c2a&amp;amp;chksm=cedfd769f9a85e7fe0f77e84288451238a3903aadf34a99c76360c419f4feeb911c96aadf54b&amp;amp;scene=21#wechat_redirect&quot;&gt;ownershipLabs&lt;/a&gt;、做数据滴滴插件，想要为每个人的注意力安家（不仅是个插件工具，同时也是个拥有个人DID的数据空间）。另外，需要对正在发生的事保持敏锐，于是和几个充满能量的小伙伴成立了&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg2ODYyNTE2Mw==&amp;amp;mid=2247483846&amp;amp;idx=1&amp;amp;sn=e8c378a7592f01a396db68635236048b&amp;amp;chksm=cea83fa2f9dfb6b4b19a9529b5090559f814a10aabe59942f413b0c03576085329d225d019d4&amp;amp;scene=21#wechat_redirect&quot;&gt;元宇宙特攻队&lt;/a&gt;，还有&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485778&amp;amp;idx=1&amp;amp;sn=a484b7429c0ee193879f001298b0945d&amp;amp;chksm=fe6247fcc915ceea1cd2f07d7e32f403f7a1486cafc493431794db27fcee33463cf529e55ebf&amp;amp;scene=21#wechat_redirect&quot;&gt;瑟瑟&lt;/a&gt;的&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg5MjExMTYyOQ==&amp;amp;mid=2247483979&amp;amp;idx=1&amp;amp;sn=05192c654ea644f882a513f3c46eb8d4&amp;amp;chksm=cfc25c29f8b5d53fb4d771668cff9845242d92a3d4dc8e7a661663534dff56b086847ea53b4d&amp;amp;scene=21#wechat_redirect&quot;&gt;Cryptoplayground&lt;/a&gt;，去试验NFT最新鲜玩意儿，去感受与发现。以上链接，入坑不亏👀 ！&lt;/p&gt;
+
+&lt;p&gt;行了，我先单方面邀请大家，到时候来参与插件内测吧。（谁不来…!哼&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[1]&lt;/em&gt;&lt;a href=&quot;https://m.theblockbeats.com/flash/40300&quot;&gt;https://m.theblockbeats.com/flash/40300&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[2]&lt;/em&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzI1Mzk4ODIwOA==&amp;amp;mid=2247497774&amp;amp;idx=1&amp;amp;sn=61449bb7379bce0bc371c17b7432c424&amp;amp;scene=21#wechat_redirect&quot;&gt;https://mp.weixin.qq.com/s/uyqHqs7pp017d_S6DiwEjQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[3]&lt;/em&gt;&lt;a href=&quot;https://www.nansen.ai/research/pranksy-the-bored-apes-using-nansen-for-nft-alpha&quot;&gt;https://www.nansen.ai/research/pranksy-the-bored-apes-using-nansen-for-nft-alpha&lt;/a&gt;**&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[4]&lt;/em&gt;&lt;a href=&quot;https://blog.mediachain.io/the-gif-that-fell-to-earth-eae706c72f1f&quot;&gt;https://blog.mediachain.io/the-gif-that-fell-to-earth-eae706c72f1f&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[5]&lt;/em&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=Mzg4MTUxNjQ0Mg==&amp;amp;mid=2247489950&amp;amp;idx=1&amp;amp;sn=cf4d01c0a2d682a7bc5c61d7d0a9a82d&amp;amp;scene=21#wechat_redirect&quot;&gt;https://mp.weixin.qq.com/s/YmBs5nSm7uehsKooZl1Z0g&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyNDE1NTU5OA==&amp;amp;mid=2247483667&amp;amp;idx=1&amp;amp;sn=93f463c511465144b87c2886442d0eb5&amp;amp;scene=21#wechat_redirect&quot;&gt;[6] &lt;/a&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzIyNDE1NTU5OA==&amp;amp;mid=2247483667&amp;amp;idx=1&amp;amp;sn=93f463c511465144b87c2886442d0eb5&amp;amp;scene=21#wechat_redirect&quot;&gt;https://mp.weixin.qq.com/s/H5hz11MZC7zEuuaMSTQEiA&lt;/a&gt;&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">​流水账一下NFT出现的一些形态</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/07/08/1.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/07/08/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">媒介即马杀鸡</title><link href="https://fat-garage.com/media-is-messge/" rel="alternate" type="text/html" title="媒介即马杀鸡" /><published>2021-06-17T00:00:00-05:00</published><updated>2021-06-17T00:00:00-05:00</updated><id>https://fat-garage.com/media-is-messge</id><content type="html" xml:base="https://fat-garage.com/media-is-messge/">&lt;p&gt;我尝试用麦克卢汉（mcluhan）的媒介理论串起一个人类重新部落化的线程。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/17/2.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;media is message&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;注：这张「media is message 媒介即马杀鸡」图完成后会被mint成NFT，空投给所有给胖车库打赏过和在gitcoin上为ownership[1]捐款的👬 ，点击&lt;/em&gt;&lt;strong&gt;&lt;em&gt;「阅读原文」&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;留下钱包地址&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;在史前社会，拼音文字还没有形成的时候，人类的沟通在一个通感的时空中完成（thought is action)，可能是说一样的话（oral）或处在同一地域、亲缘关系等等，那时候没有货币，彼此&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485073&amp;amp;idx=1&amp;amp;sn=07853b55645be04085ba74834b3e002b&amp;amp;chksm=fe62483fc915c12974201d08b15c8130b4bdaa8dcb531a1eb4abeca51b67fdfc3a92fea588ab&amp;amp;scene=21#wechat_redirect&quot;&gt;物物交换&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;地理大发现促使拼音文字出现，尤其printing press诞生，事物开始大规模可复制，货币、书籍、文字出现。部落文化被打破，国家、工业化、文明随之而来。媒介呈现&lt;strong&gt;线性、分裂、视觉&lt;/strong&gt;的特征。&lt;/p&gt;
+
+&lt;p&gt;电力的广泛使用带来了电子时代，收音机、电报、电话，尤其是电视机出现后，人与媒介的关系再次发生改变，人的意识经电子媒介延伸，开始重现部落文化时期的全观（all senses) 感知，媒介呈现出&lt;strong&gt;沉浸，立体，网状&lt;/strong&gt;的趋势。&lt;/p&gt;
+
+&lt;h1 id=&quot;媒介的发展&quot;&gt;媒介的发展&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;it includes any technology whatever that creates extension of the human body and senses,from clothing to computer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;麦克卢汉对媒介的定义：&lt;strong&gt;任何创造人体和感官延伸的技术，从衣服到电脑，都是媒介。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;电视的参与性&quot;&gt;电视的参与性&lt;/h2&gt;
+
+&lt;p&gt;mcluhan对电视的论述让我大开眼界，也让我第一次认识到&lt;strong&gt;媒介&lt;/strong&gt;与&lt;strong&gt;媒介的内容&lt;/strong&gt;之间的区别。&lt;/p&gt;
+
+&lt;p&gt;媒介分为冷热两种。热媒介是高清晰度，低参与度的媒介，如广播。&lt;/p&gt;
+
+&lt;p&gt;电视是冷媒介，它是低像素的、定义模糊的，参与性的。电视图像是一张由数百万个点组成的马赛克网格，从生理上讲，观众只能从中选取&lt;strong&gt;50到60个点&lt;/strong&gt;来构成图像；因此，他要不断地填充模糊的图像，使自己深入参与到屏幕中，和电视之间保持一个&lt;strong&gt;不间断的创造性对话&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;在这段关系中，观众变成了屏幕。电视机的焦点在于观众，它的图像通过我们的眼睛向内投射，使我们开始关注自己的内心，进而使我们发生改变。&lt;/p&gt;
+
+&lt;p&gt;电视是信息时代（electric age）出现后第一个最具有参与性的媒介，它的出现一下子营造了一种部落社会环境，&lt;strong&gt;人（人的意识）开始延伸到虚拟世界&lt;/strong&gt;。但是车速似乎有些快，就像把我这线性思维的读书人给拉回到史前社会，带来的冲击是极大的。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The aloof and dissociated role of the literate man of the western world is succumbing to the new,intense depth participation engendered by the electronic media and bringing us back in touch with ourselves as well as with one another.&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;西方世界有文化的人所扮演的冷漠和不相关的角色正在屈服于电子媒体所产生的新的、强烈的深度参与，并使我们重新与自己以及与他人接触。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;如电视这样的电子媒介反映集体意识，在观众接收信息的过程中即完成了参与，无论是投票（voting）还是参与创作。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/17/3.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Ryoji Ikeda, The Transfinite, Park Avenue Armory (New York) 2011.&lt;/p&gt;
+
+&lt;h2 id=&quot;电脑延伸个人&quot;&gt;电脑延伸个人&lt;/h2&gt;
+
+&lt;p&gt;接着，电脑和互联网的出现，进一步方便了个体将意识延伸到虚拟世界。并且按照mcluhan当时的设想，电脑应该帮助意识流（feed-forward of thought）数字化，听起来是不是很耳熟–Twitter、微博的形态。但可惜的是，它还没有实现universal understanding and unity。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If data feedback is possible through the computer,why not a feed-forward of thought whereby a world consciousness into a world computer.
+The computer thus holds out the promise of a technologically engendered state of universal understanding and unity,a state of absorption in the logos that could knit mankind into one family and create a perpetuity of collective harmony and peace.&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;This is the real use of computer,not to expedite marketing ot solve technical problems bit to speed the process of discovery and orchestrate terrestrial–and eventually galactic–environments and energies.
+计算机带来了一种从技术上定义的统一规则和承诺，一种被抽象成logo的状态，可以将人类结成一个家庭，并创造一个永久的集体和谐与和平。计算机的真正用途不是为了加快营销或解决技术问题，而是为了&lt;strong&gt;加快发现的过程和协调地球&lt;/strong&gt;–最终是银河系–的环境和能量。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;那么接下来，重新部落化的进程会如何发展？&lt;/p&gt;
+
+&lt;h1 id=&quot;几种尝试&quot;&gt;几种尝试&lt;/h1&gt;
+
+&lt;p&gt;我们继续看mcluhan对媒介发展的预言，尽管接下来提到的具体技术在那个时代还未出现。&lt;/p&gt;
+
+&lt;h2 id=&quot;个人电视机&quot;&gt;个人电视机&lt;/h2&gt;
+
+&lt;p&gt;mcluhan当时（1969）有一个清楚的描述：电子信息的发展状态应该是一个&lt;strong&gt;去中心化&lt;/strong&gt;的过程。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But the instant nature of&lt;strong&gt;the electric information movement is decentralizing&lt;/strong&gt;–rather than enlarging–the family of man into a new state of multitudinous tribal existense.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在这种重新部落化的过程中，必然会挑战之前建立起来的郭嘉概念 (nationalism)和专业化概念 (industrialism)。取而代之的可能是诸如虚拟国家(cybernation),自治组织 (automation)等概念，进而人们会产生脱离了原有体系之后的&lt;strong&gt;新身份诉求&lt;/strong&gt;。神奇的是，mcluhan 在当时就看到了这样的趋势。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/17/4.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;新的能够支撑部落文化（retribal）趋势的媒介将结合电视的参与性、PC的个体延伸，以及去中心化的特性成为人&lt;strong&gt;主动延伸意识&lt;/strong&gt;的载体。没错，我想到了token economics 或者更确切的话, NFT。（这里我们讨论NFT作为一种媒介，而不纠结媒介内容）&lt;/p&gt;
+
+&lt;p&gt;我知道这里会失掉很多的上下文，而且在大多数人眼中NFT只是一个可以被炒作到几千万的能轻易被screenshot和随便复制黏贴的像素头像而已，别和我谈论什么ownership blabla。哈哈，不聊技术，我们今天用mcluhan的媒介理论给它进行一个更有趣的解释–&lt;strong&gt;个人电视机&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/17/5.gif&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;打印机（printing press）带来一个非常重要的变化是，它让一切变得可复制（Repeatability）。而NFT打出的口号是：一切不可复制（Not Replicable)，这里的不可复制不是说你不能copy and paste它的内容，而是&lt;strong&gt;这个媒介对自身的定义就是这样的。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Media is message. 媒介即信息。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;个人要成为电视机，第一需要人主动把自己的意识延伸到这个媒介上去，并且能够以自我为中心。第二，要有观众来做屏幕，信息要印在受众的皮肤上。这个媒介会让&lt;strong&gt;联系直接产生，并有形成部落网络的潜力。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/17/6.png&quot; /&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/17/7.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;举个非常缺乏想象力的例子，比如punks，你早期买了一个punk的NFT，然后你就被无形的联系到一个部落里面了。你会发现有人开始为punks做身体、做穿戴、&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=Mzg2ODYyNTE2Mw==&amp;amp;mid=2247483798&amp;amp;idx=1&amp;amp;sn=ad2c42c0bed8fff1ccfb7f12f9afb790&amp;amp;chksm=cea83ff2f9dfb6e491e84db5c11b5da07a56e3e679618fb406b55c7bf89b43f29a6682e2d9e7&amp;amp;scene=21#wechat_redirect&quot;&gt;做实体衣服、做漫画&lt;/a&gt;、做游戏、做数字baby…然后原始punks的价值莫名其妙的水涨船高。你发现自己竟身在&lt;strong&gt;一个集体无意识的创作&lt;/strong&gt;之中, 甚至你还承载着故事线。是不是比单纯看电视有趣多了，而且一切都与你有关。&lt;/p&gt;
+
+&lt;p&gt;Naval之前有一段关于NFT的精彩论述[4]：&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/17/8.png&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;拼音文字的部落化&quot;&gt;拼音文字的部落化&lt;/h2&gt;
+
+&lt;p&gt;我们前面说到自打印机发明以来，人类发展了这么久的语言文字体系（phonetic literacy）不可能立马被遗弃，需要一种巧妙的方式成为部落文化的和音。或至少，它能够帮助几代在印刷媒介和电子媒介泳池中精分的人们适应未来将会发生的改变，帮助我们塑造全观感知和新的思维方式。&lt;/p&gt;
+
+&lt;p&gt;mcluhan说，因为知识在线性的拼音文字体系下是碎片化、专业化的、线性的。部落文化的知识应调用身体丰富的感知，或至少是网状的。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As knowledge is extended in alphabetic form, it is localized and fragmented into specialties,creating devisions of function,of social classes,of nations and of knowledge–and in the process,the rich interplay of the senses that charaterized the tribal society is sacrified.&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;随着知识以字母形式的扩展，它被本地化并被分割成各种专业，形成了功能、社会阶层、民族和知识的划分–而在这个过程中，使部落社会具有特色的丰富的感官互动被牺牲掉。
+Another characteristic distinguishing tribal man from his literate successors is that he lived in a world of acoustic space,which gave him a radical different concept of time-space relationship.Unlike visual space, acoustic space has no center and no margin.
+部落人区别于识字继承人的另一个特点是，他生活在一个声学空间的世界里，这给了他一个完全不同的时间空间关系概念。
+与视觉空间不同，声学空间&lt;strong&gt;没有中心也没有边缘&lt;/strong&gt;。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;从媒介的角度看一些基于图数据库搭建知识管理工具（比如roam），像是一种&lt;strong&gt;训练人适应部落文化的工具&lt;/strong&gt;。你会发现它天然是非线性的，是thought and action的（想即做），这些都太反直觉了，和我们的语言文字体系格格不入却又充满诱惑。所以，这不仅是一个让你把碎片化的知识收集起来的工具，更是在训练你连网（连成网络）和想即做（thought and action，没有then）的能力，而这都是部落环境人们彼此沟通的特征。&lt;/p&gt;
+
+&lt;h1 id=&quot;写在最后&quot;&gt;写在最后&lt;/h1&gt;
+
+&lt;p&gt;以上引用均来自花花公子1969年对mcluhan长达3万字的访谈[2]，我从头到尾看了三遍，又去翻了life and time、mywebcowtube一些老的影像资料[3]。我特喜欢琢磨那些对固有观念产生冲击的东西，我以为我一直在研究媒介，但更多的只是在纠结媒介的内容而已。比如NFT，当你把它作为一种&lt;strong&gt;媒介&lt;/strong&gt;去看的时候，可能就会理解一些看似荒诞的事，减少一些偏见。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The new extension of man and the environment they generate are the central manifestations of the revolution process,and yet we cant free ourselves of the delusion that how the medium is used that counts,rather than what it does to us and with us.&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;人的新延伸和它们产生的环境是媒介进化的核心表现，但我们无法摆脱这样的错觉，即认为如何使用媒介才是最重要的，而不是它对我们做了什么以及它与我们在一起。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;人们回归部落文化的诉求，源于他们正在将自己延伸到相应的媒介上去了，抬起头随便看看周围就知道了。但是明显很多条件都跟不上，或者说环境无法瞬时改变，于是出现了身份的真空（transitional identity vacuum）。所以不同年代都会很别扭、很纠结，究竟是什么出了问题？是鱼还是水？&lt;/p&gt;
+
+&lt;p&gt;95、00后们一出生就被电子信息营造的部落环境所环绕，却还要被强行灌输语言文字主导的经济和教育价值观。游戏化的、通感的一切本是他们感受到的水，却被告知这其实不是你该游泳的地方，他们很难受；&lt;/p&gt;
+
+&lt;p&gt;95前们从语言文字时代走来带着根深蒂固的线性思维，被电子信息冲击的怀疑人生。他们一部分开始怀旧并想方设法脱离干扰，另一部分嚷嚷着要么换掉这池子水，要么至少干点什么，还有一大部分觉得娃咋就不好好学习。&lt;/p&gt;
+
+&lt;p&gt;于是他说，不要固守已经过时的教育，想点办法塑造新的教育。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In today’s world, to paraphrase Jefferson, the least education is the best education，since very few young minds can survive the intellectual tortures of our education system. … these kids are fed up with jobs and goals, and are determined to forget their own roles and involvement in society.&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;在今天的世界上，用杰斐逊的话说，最少的教育是最好的教育，因为很少有年轻人能在我们的教育系统中经受住智力的折磨。…这些孩子对工作和目标感到厌倦，决心忘记自己的角色和对社会的参与。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;mcluhan的理论仍然超前，他所说的“和谐”地球村仍未形成。但不管怎样，这必将是一次激动人心的，在我看来不可阻挡的重新部落化的过程。技术的出现（电视、智能手机、互联网、PC、AR、VR、分布式账本、区块链、加密货币等）就是在为它最终本该有的样子的各种努力（毕竟没有中心化，也无法凸显去中心化更值得尝试），也是源于内心最炙热而深切的希望：和谐共生的地球村、人与人之间更好的联结。&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;我预料未来的几十年会把这个行星改变为一种艺术形式。此间的新人在超时空的宇宙和谐中连在一起。他们会用官能去拥抱和塑造这个地球的各个方面，仿佛把它当成一件艺术品。&lt;/p&gt;
+
+&lt;p&gt;人自身也会成为一种有机的艺术形式。&lt;/p&gt;
+
+&lt;p&gt;任重道远，宇宙星星就像我们的驿站。&lt;/p&gt;
+
+&lt;p&gt;我们的长征刚刚开始。&lt;/p&gt;
+
+&lt;p&gt;生活在这个时代真是上帝宝贵的恩赐。&lt;/p&gt;
+
+&lt;p&gt;仅仅是因为人类命运这本书的许多篇幅读不到，&lt;/p&gt;
+
+&lt;p&gt;我也会为自己终将来临的死亡扼腕叹息，恋恋不舍&lt;/p&gt;
+
+&lt;p&gt;请允许我用古登堡印刷术的形象打个比方，&lt;/p&gt;
+
+&lt;p&gt;也许正如我考察后文字时代文化时试图证明的一样，&lt;/p&gt;
+
+&lt;p&gt;只有等到古登堡这本书关上后，故事才开始登场。&lt;/p&gt;
+
+&lt;p&gt;—-1969《花花公子》杂志访谈录&lt;/p&gt;
+
+&lt;p&gt;（收录于《麦克卢汉精粹》）&lt;/p&gt;
+
+&lt;h1 id=&quot;reference&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;[1] gitcoin捐款地址：&lt;a href=&quot;https://gitcoin.co/grants/2316/datatoken-a-decentralized-access-control-system-f&quot;&gt;https://gitcoin.co/grants/2316/datatoken-a-decentralized-access-control-system-f&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] 1969年3月号《花花公子》杂志的访谈录&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hannemyr.com/links_mcluhan/pb.html&quot;&gt;https://hannemyr.com/links_mcluhan/pb.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] 纪录片Out of Orbit 1999: The Life and Times of Marshall McLuhan&lt;a href=&quot;https://www.youtube.com/watch?time_continue=59&amp;amp;v=awDcw0JhctQ&amp;amp;feature=emb_logo&quot;&gt;https://www.youtube.com/watch?time_continue=59&amp;amp;v=awDcw0JhctQ&amp;amp;feature=emb_logo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;纪录片Documentary of 1960’s - This is Marshall McLuhan: The Medium is the Message&lt;a href=&quot;https://www.youtube.com/watch?v=t1axnba_Ueg&quot;&gt;https://www.youtube.com/watch?v=t1axnba_Ueg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4]Naval’s NFT thread&lt;a href=&quot;https://twitter.com/naval/status/1378954767863443461&quot;&gt;https://twitter.com/naval/status/1378954767863443461&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;相关阅读:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jamie Burke的Twitter thread 探讨了Mcluhan媒介理论和NFT的关系&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/jamie247/status/1365812767966580736&quot;&gt;https://twitter.com/jamie247/status/1365812767966580736&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;是秋刀鱼嗷的文章：&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzU1ODg0MzExNA==&amp;amp;mid=2247483772&amp;amp;idx=1&amp;amp;sn=526006e23183d6e912747e551d2472d5&amp;amp;scene=21#wechat_redirect&quot;&gt;麦克卢汉，前数字时代的温情先知&lt;/a&gt;&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">我尝试用麦克卢汉（mcluhan）的媒介理论串起一个人类重新部落化的线程。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/06/17/1.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/06/17/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">netandbooks 网络与书</title><link href="https://fat-garage.com/netand-books/" rel="alternate" type="text/html" title="netandbooks 网络与书" /><published>2021-06-09T00:00:00-05:00</published><updated>2021-06-09T00:00:00-05:00</updated><id>https://fat-garage.com/netand-books</id><content type="html" xml:base="https://fat-garage.com/netand-books/">&lt;p&gt;netandbooks（网络与书）是一个重新探索阅读的计划，这本杂志2001年出版，由郝明义先生主编。其中包含诸多专题，我在旧书市集上买的是阅读的风貌（the fashion of reading) 这个专题，当时只是略翻了数页，一是觉得版式用心又好看，二是觉得主题与兴趣极为契合，尤其是看到一句话：我们开发网络、使用网络，又说明了什么意义与本质？&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/09/2.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;netandbooks（网络与书）杂志内页&lt;/p&gt;
+
+&lt;p&gt;关于阅读，有个有趣的感受。&lt;/p&gt;
+
+&lt;p&gt;当我仅拿着这本杂志阅读的时候，脑海中浮现出生机勃勃的想象和图景，但当我打开web，首先在微信、Google甚至是Twitter上搜索这些信息（我试图阅读一些与主编和这本杂志相关的东西，并忘记刚刚从纸面上得到的感受），我极度迷失了，我开始不知道我要看什么，甚至我刚刚非常专注在思考的问题被一种焦虑包围和代替。&lt;/p&gt;
+
+&lt;p&gt;我关掉web，打开roam写这篇文章。除了必要的搜索会用一下google，我的手边只有一本netandbooks。&lt;/p&gt;
+
+&lt;p&gt;20年过去了，我们看看当时讨论了什么。&lt;/p&gt;
+
+&lt;h2 id=&quot;让librarian推荐书籍&quot;&gt;让librarian推荐书籍&lt;/h2&gt;
+
+&lt;p&gt;郝明义先生提到了他在大英图书馆借阅的经历。他向两位图书管理员（librarians) 询问中国印刷术和东方文明相关的书籍：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;大英图书馆藏书之丰，不必多言。那两人如果很快指出几千种，并没有什么了不起。我佩服他们的是，&lt;strong&gt;只推荐五本书&lt;/strong&gt;。那不是草率，不是武断，是一种对自己馆藏图书了然于胸的信心，还带着对读者的体贴…
+今天的网络，就像一个比大英图书馆大的多的图书馆，如同我前面所说，最重要的是可以提供帮助的librarian。不过由于这个巨大的图书馆是摊开来的，展现在每个人眼前的，是每一个人所拥有的。所以，有一件和实体世界不同的事情是，我们要锻炼自己成为一个逐渐可靠的librarian。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;哈哈，郝先生在这本杂志里就像我的librarian。这个专题下在最后他推荐了有关阅读的8本书，包括《世界简史》《中国近三百年学术史》《如何阅读一本书 How to read a book》《中国科学技术史》《麦克卢汉精粹 Essential McLuhan》《中国读书大辞典》《书的艺术与历史 1995 The art and history of books》以及一本“等待中的书”。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/09/3.png&quot; /&gt;&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/09/4.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;netandbooks（网络与书）杂志内页&lt;/p&gt;
+
+&lt;p&gt;为什么说他会是能帮到我的图书管理员？因为我&lt;strong&gt;“主动”&lt;/strong&gt;找来，通读了整个专题之后，发现和兴趣与研究的方向非常契合。在《麦克卢汉精粹 Essential McLuhan》中还进行了更细化的推荐，要知道麦克卢汉的作品又多又难，需要有一个全观见解人来说明他的正确打开方式。&lt;/p&gt;
+
+&lt;p&gt;•了解媒体，麦克卢汉必不可少&lt;/p&gt;
+
+&lt;p&gt;•读原作，不要读别人消化的。有些著作不适合翻译，麦克卢汉就是如此，难译难懂。&lt;/p&gt;
+
+&lt;p&gt;•只读一本的话，就是《麦克卢汉精粹 Essential McLuhan》&lt;/p&gt;
+
+&lt;p&gt;•连一本也读不下来的话（很可能是这样），其中四篇相对易于消化：&lt;/p&gt;
+
+&lt;p&gt;1）1969年3月号《花花公子》杂志的访谈录（如果连其他三篇文章也不想读，起码应该看这一篇。）&lt;/p&gt;
+
+&lt;p&gt;2）多伦多大学1956年7月号《探索》里的《探索：媒体、文化、教养》。原文不到五页的空间里，阵列了大量既有用又具革命性的洞见&lt;/p&gt;
+
+&lt;p&gt;3）《麦克卢汉资料读本》。从语言到文字到印刷到影印到电话到照片到电影到电视到未来的媒体，爱克卢汉用 条列式的简短艾字进行本质的分解与黼。&lt;/p&gt;
+
+&lt;p&gt;4）《了解媒体》的节录。有名的“冷媒体”、“热媒体”，就在这里。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;注&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;：我在roam graph中整理了以上这些资料，给胖车库打赏过的朋友们可以回复&lt;/em&gt;&lt;strong&gt;&lt;em&gt;“网络与书”&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;获取。&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;阅读的本质&quot;&gt;阅读的本质&lt;/h2&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/09/5.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;netandbooks（网络与书）杂志内页&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/09/6.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;麦克卢汉1969年3月号《花花公子》杂志的访谈录·摘录&lt;/p&gt;
+
+&lt;p&gt;这个专题在探讨的核心是：阅读的本质。从书籍到网络，阅读的本质没有改变，就是&lt;strong&gt;为了认知这个世界&lt;/strong&gt;。人类对世界的认知方式，以文字为一个分界线。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;人类对世界认知的方式，先是有观察、图像、肢体表达、音乐、语言；之后，以结绳、象形、拼音而发展出文字…&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;…文字出现之后，人类互动的方法与方便，全面展规，但自此以后，人类对世界的认知方式，开始以文字为最重要的中心——至于文字出现之前，人类综合&lt;strong&gt;运用各种感官的全观能力&lt;/strong&gt;，则逐渐退化。
+网络出现，起初的本意仍然是为了方便文字的交换与传播，却注定要踏上一个颠覆文字的路程——覆以文字来认知世界的过程。网络之所以会颠覆文字，是因为在电脑科技的辅助下，终将结合文字以外的声音、影像、味觉、触感，甚至意念，提供一 种&lt;strong&gt;全新/面的感官经验&lt;/strong&gt;。虚拟实境，只是我们对未来网络阅读的既有认知之中，—个最简单的想像而已。
+人类演化了四百万年，文字的历史五千年，纸张二千年，印刷在纸张上的书籍来供阅读，中国大约一千三百年，西方约五百年。郝先生说，人类在习惯这五千年的发展，又要企图摆脱文字和书籍阅读的限制，也有其历史的必然——回复与恢复基因中某些作用的必然。然而，我们需要担心的不是这些发展会不会破坏文字的阅读，&lt;strong&gt;而是如何让文字阅读配合这些阅读维持住一块完整的空间。&lt;/strong&gt;&lt;/p&gt;
+    &lt;h2 id=&quot;网络的本质&quot;&gt;网络的本质&lt;/h2&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;以綜合感官来超脱文字的认知方式，固然可能让我们重新开发全观认知的能力，这种经验也可能太过刺激，不仅容易耽溺其中，也可能扭曲认知的结果。我们往全观认知前进的路上，不但可能掌握不到全观的根本意义，还可能把自己带进一个更“偏观”的世界。我们应该更细密的思索&lt;strong&gt;网络的本质&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;麦克卢汉说：“媒体即信息（media is information) ”，换句话说，人类开发、使用什么媒体这件事情本身，就说明了他们所要传达的要义，即信息的本质。那么，我们开发网络，使用网络，又说明了什么意义和本质？&lt;/p&gt;
+
+&lt;p&gt;联结。&lt;/p&gt;
+
+&lt;h2 id=&quot;我在想&quot;&gt;我在想…&lt;/h2&gt;
+
+&lt;h3 id=&quot;librarian是怎么推荐这5本书的&quot;&gt;librarian是怎么推荐这5本书的？&lt;/h3&gt;
+
+&lt;p&gt;他首先要知道每本书对应的什么样的知识，知识之间的关联，还要根据提问者的问题动机，比如读者因为读过西方印刷术与西方文明的关系，而想要阅读中国印刷术和东方文明的书籍（因果关系）。人脑如何完成这个链路的计算？&lt;/p&gt;
+
+&lt;p&gt;有趣的是，读完这本杂志后，感觉就像是完成了一次&lt;strong&gt;满意的推荐&lt;/strong&gt;（虽然我还没有检验结果，但心理觉得满意）。就好像一个知识网被粘合，路径像是这样：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;哦，他在讨论阅读的本质是什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;阅读是为了&lt;strong&gt;认知世界&lt;/strong&gt;&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;好像我想知道的是网络的本质是什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;网络是为了达到&lt;strong&gt;全观的认知&lt;/strong&gt;&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;怎么着叫全观的认知？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;人类运用各种感官的能力，全观认知的关键在于&lt;strong&gt;联结&lt;/strong&gt;。&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;我希望什么样的联结？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;@¥%#*+)$&lt;/p&gt;
+
+&lt;p&gt;最终匹配结果是，去看看：麦克卢汉四篇；如何读书《how to read a book》（郝明义先生本人是这本书的译者）&lt;/p&gt;
+
+&lt;h3 id=&quot;我为什么会觉得匹配呢&quot;&gt;我为什么会觉得匹配呢？&lt;/h3&gt;
+
+&lt;p&gt;请注意，我在这次匹配的过程中，没有任何“确切的问题”，比如我就是抱着「人为什么要阅读」这一件事来寻解的，没有。我觉得人的大脑里有一个天然算法在帮你计算匹配的程度，因为你的问题就不是树状结构，可能由一堆乱七八糟的问题共同决定。而现在的网络是用&lt;strong&gt;一个逻辑链给你答案，然后训练你&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;这本书没有解答任何问题，而是提出了更多问题，却让我有一种更加匹配的感觉。就像图数据库和关系型数据库，如果能计算出谁和谁&lt;strong&gt;有关系&lt;/strong&gt;，似乎比告诉我谁和谁&lt;strong&gt;有什么关系&lt;/strong&gt;更加重要（how dare you know i dont even know)。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/09/7.gif&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;为什么要关注知识的分类、梳理和联结，为什么要关注网络和媒体，为什么要关注阅读和文字…我们现在演化出的状态可能不是最好的，但问题的本质没有变，研究这些东西依旧是为了&lt;strong&gt;更好的联结&lt;/strong&gt;，让知识与知识联系在一起解决问题，让物理世界的个体通过虚拟世界映射的思想和世界另一端的大脑里链路匹配在一起（不就是社交吗…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;媒介是人的延伸：“各种先导技术不再有异化作用，媒介是人感知信息后处理信息的延伸，并且不同的技术会影响人类感知的结构。轮子是脚的延伸，衣服是皮肤的技术投射。书是眼睛的派生物，广播是耳朵的技术表达。”&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;——《麦克卢汉精粹Essential McLuhan》&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;下次来聊聊👆 媒介这个话题。&lt;/p&gt;
+
+&lt;h2 id=&quot;最后&quot;&gt;最后&lt;/h2&gt;
+
+&lt;p&gt;也许我们需要这种网络世界的librarian，这个人有该领域/或交叉领域的知识网。他的这张网可以帮助我们梳理一些重要的问题，为你引荐适合回答接下来一系列问题的人。这与平时的大数据基于特定算法的推荐感受不同（尽管它会让你觉得适合）。&lt;/p&gt;
+
+&lt;p&gt;同时我又想到，出版业，媒体人应该做这样的librarian，而不是与噪声齐鸣，让读者越来越焦虑。就像我前面说的：我主动寻宝而来，不说满载而归，但不感焦虑且有所收获。我希望胖车库能成为这样的地方，如果不是，不必停留。&lt;/p&gt;
+
+&lt;p&gt;当然也可以问问一些自诩专业的媒体人们，让他推荐5本书试试；）&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">netandbooks（网络与书）是一个重新探索阅读的计划，这本杂志2001年出版，由郝明义先生主编。其中包含诸多专题，我在旧书市集上买的是阅读的风貌（the fashion of reading) 这个专题，当时只是略翻了数页，一是觉得版式用心又好看，二是觉得主题与兴趣极为契合，尤其是看到一句话：我们开发网络、使用网络，又说明了什么意义与本质？</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/06/09/1.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/06/09/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">对数据经济、NFT的一些思考</title><link href="https://fat-garage.com/NFT/" rel="alternate" type="text/html" title="对数据经济、NFT的一些思考" /><published>2021-06-04T00:00:00-05:00</published><updated>2021-06-04T00:00:00-05:00</updated><id>https://fat-garage.com/NFT</id><content type="html" xml:base="https://fat-garage.com/NFT/">&lt;p&gt;今天这篇东西是基于这些天来对数据经济和ownershipLabs在做的事情的一些思考，主要的研究范本是Ocean protocol。第二部分则是近期对NFT和数据结合的想法。可读性差，属于不发出来会死人的那种。&lt;/p&gt;
+
+&lt;h1 id=&quot;第一趴&quot;&gt;第一趴&lt;/h1&gt;
+
+&lt;h3 id=&quot;数据私有制&quot;&gt;数据私有制&lt;/h3&gt;
+
+&lt;p&gt;集体性贫困[1]是指：一小撮儿人拿走了包括你我所生产的所有东西，而我们什么都没有。或者说大部分人很平等，平等的贫穷。对于80、90、00后来说，没有经历过集体性贫困，说起来那好像是上世纪70年代的中国农村。&lt;/p&gt;
+
+&lt;p&gt;但好像，我们也在每时每刻生产着什么来着？&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/1.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;20世纪80年代的中国，商业私有制的兴起让人们可以拥有自己生产的汽车、财产、食物和衣服。人们开始&lt;strong&gt;被允许&lt;/strong&gt;拥有一部分自己生产的东西了。&lt;/p&gt;
+
+&lt;p&gt;Jennifer Zhu Scott 在《TED—为什么数据私有化对于普惠AI来说很重要？》中说：&lt;strong&gt;私有制是我们不曾拥有的一种自由形式。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如果我们从完全不同的角度看待数据所有权，那会怎样？如果数据所有权实际上是私人的、个体的和经济上的问题， 那会怎样？如果在新的数字经济，我们被允许拥有我们创造的（数据的）一部分，并给人们私有数据所有权的自由， 那会怎样？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;数据经济的远景就是，让每一个数据生产者认识到自己在「生产」，在这个过程「受到激励」，然后「自行决定」如何处置它。&lt;/p&gt;
+
+&lt;h3 id=&quot;数据经济的重要性&quot;&gt;数据经济的重要性&lt;/h3&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/2.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;以往数据和人工智能往往积累在少数互联网巨头手中，Ocean protocol目的将数据和人工智能（AI）的价值民主化。为了&lt;strong&gt;价值化&lt;/strong&gt;个人、商业甚至是城市的数据。[2]&lt;/p&gt;
+
+&lt;p&gt;•个人没有数据所有权，无法控制隐私&lt;/p&gt;
+
+&lt;p&gt;•缺乏规范性入口，数据很难定价&lt;/p&gt;
+
+&lt;p&gt;•策划信号造假&lt;/p&gt;
+
+&lt;p&gt;•亚马逊上的假评论或Twitter上的机器人账号扰乱&lt;/p&gt;
+
+&lt;p&gt;•互操作性&lt;/p&gt;
+
+&lt;p&gt;个人数据，尤其是隐私数据对于研究（比如AI）和商业决策非常重要。但隐私数据处于影子地带，很难获取且过程中容易泄漏，区块链、密码学技术让保护隐私的前提下价值化个人数据成为可能。&lt;/p&gt;
+
+&lt;h3 id=&quot;你需要的是谷歌吗你需要的是搜索引擎&quot;&gt;你需要的是谷歌吗？你需要的是「搜索引擎」&lt;/h3&gt;
+
+&lt;p&gt;在web3经济中，任何一股力量都不是一种单一的势力。任何一项服务也不再具有排他性。这世界只有一个谷歌、一个facebook、一个amazon的大而不倒将会与web3丰富的应用组件同时存在。而web3的服务以token链接，因token而彼此打通。你可以因为使用了去中心化搜索引擎&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzU4MTQwMzMxOA==&amp;amp;mid=2247487249&amp;amp;idx=1&amp;amp;sn=019e46699aaabbf2691a81b318a90ef2&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=cJ3Vvtt36JpXWxTX&quot;&gt;the graph&lt;/a&gt;的搜索而授权&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzU3NDYzNDQwNw==&amp;amp;mid=2247484059&amp;amp;idx=1&amp;amp;sn=252fed3672cc1c1d306b54085366d744&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=cJ3Vvtt36JpXWxTX&quot;&gt;Swash&lt;/a&gt;留下数据集（你的检索历史），并自动获得收益、或可选择将其在数据市场上进行出售。你也会因为生产和贡献了good data[3]而得到关联项目的空投、NFT激励，以奖励你对一些AI模型训练的贡献。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/3.png&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;ocean的case-study&quot;&gt;Ocean的case study&lt;/h3&gt;
+
+&lt;p&gt;Ocean protocol的做法总结来看有两个方面：&lt;/p&gt;
+
+&lt;p&gt;•通过defi切入数据经济，其实更多的是让大众去认识，数据就是资产&lt;/p&gt;
+
+&lt;p&gt;•从数据层面直接讨论，打造数据市场进行数据交易&lt;/p&gt;
+
+&lt;h3 id=&quot;ocean和defi的组合&quot;&gt;ocean和defi的组合&lt;/h3&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/3.png&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;compute-to-data&quot;&gt;compute-to-data&lt;/h3&gt;
+
+&lt;p&gt;根据麦肯锡的报告，AI 会在未来十年增加 13 万亿美元的经济产出[4]，个人产生的数据无疑会对这巨大的发展做出贡献。商业公司的具体实践，比如微软的去中心化合作计划[5]，通过数据透明化和与机构/组织建立强有力的合作，激励他们去贡献good data供AI模型使用。&lt;/p&gt;
+
+&lt;p&gt;ocean打造了一个数据市场，并通过compute-to-data&lt;strong&gt;让隐私数据集（datasets) 和算法(algorithm)可以在区块链的支持下被安全的交易，这个功能最近被集成到了数据市场。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*Compute-to-Data是指，数据在所有者处，计算需求方把算法发送到他那，他接受了算法后，在自己处计算返回结果给需求方，保护了数据隐私。&lt;/em&gt;&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/6.png&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;ocean的应用案例6&quot;&gt;ocean的应用案例 [6]&lt;/h3&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/7.png&quot; /&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;第二趴&quot;&gt;第二趴&lt;/h1&gt;
+
+&lt;h3 id=&quot;其他可能性&quot;&gt;其他可能性&lt;/h3&gt;
+
+&lt;p&gt;除了Ocean这种与defi结合和打造数据买卖市场之外，我也在思考数据与DAO、NFT的交集。&lt;/p&gt;
+
+&lt;h3 id=&quot;数据daodatadao&quot;&gt;数据DAO（dataDAO)&lt;/h3&gt;
+
+&lt;p&gt;DAO的语境目前还局限在金融领域，比如用智能合约管钱、投资等。但归根究底是激励一批特定领域专长的人来贡献他们的智慧（collective intelligence）。所以我就想到了数据DAO——&lt;strong&gt;聚集一批数据科学家来进行知识编程。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/8.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;基于特定的组织知识分类和结构，以及包含数据、信息和知识编程、存储和检索等详细逻辑的实用软件程序数不胜数。理论方面，诸如robin cowan的研究论文《The Explicit Economics of Knowledge Codification and Tacitness》[7]更是从20年前（2000年）就开始讨论为知识（注意力）编程的经济可行性。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/9.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;没有做到的是让这些理论与&lt;strong&gt;价值网络交配&lt;/strong&gt;的成功案例，区块链、智能合约、去中心化存储将带来改变。当然，这个爆点的场景将是无从知晓的，会是&lt;strong&gt;开放式推荐算法&lt;/strong&gt;吗？&lt;/p&gt;
+
+&lt;p&gt;我的猜想是，之后会有各种各样的算法被设计出来，大多是定价算法，设计者在理解数据库的网络结构、变量、权重等关系基础上（毕竟理论那么多元），抽象出对应的代码，将其嵌入智能合约之中。可以根据每一级、或每一个网络节点去定价，用户进来付费不仅是为了拿到数据，更是为了加入网络&lt;em&gt;（attenstation)&lt;/em&gt;。将有一个/系列事件让data curation这件事有利可图，也许正如李博所说：&lt;strong&gt;web3的知识管理就是财务管理&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/10.png&quot; /&gt;&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/11.png&quot; /&gt;&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/12.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;隐性知识（to put the economics of tacit and codified knowledge together）[7]&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nftdata&quot;&gt;NFT+data&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;知识（注意力）编程的程度是由激励因素决定的—也就是这样做的成本和收益。基于图数据库和智能合约的存储和计算，似乎已经到了突破性进展的临界点。——&lt;em&gt;The Explicit Economics of Knowledge Codification and Tacitness&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我有时候觉得这种数据经济形态&lt;strong&gt;已经在NFT身上初见端倪&lt;/strong&gt;，刚刚说的turning point，web3的杀手应用可能是：使知识（注意力）管理自动成为财务管理的应用。&lt;/p&gt;
+
+&lt;p&gt;NFT与data的结合下，NFT作为数据价值化的载体。作为奖励人们注意力的载体，本身是一张带有#[[]]的卡片。就像前面提到的隐性知识（tacit knowledge），抑或是主动的知识收集整理（knowledge curation），都是我们付出注意力的行为。&lt;/p&gt;
+
+&lt;p&gt;举个最简单的例子，在未来，&lt;strong&gt;你会因为收藏了一些带有#[[]]的书签而获得相应的奖励——比如NFT奖励&lt;/strong&gt;（这些奖励更像是找上门的，就像广告主在找他的1000个粉丝用户一样）。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/13.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;NFT是一个建立关系网络的绝佳媒介，我觉得这甚至大于它的金融属性（虽然现在很多努力致力于增强它的流动性，让它与金融商品、defi接轨）。大部分时候，我去决定购买一个NFT是因为我认可这件作品、这件作品背后的人会带给我持续的inspiration，我的注意力需要“被”粘在这里，成为一个节点，因此&lt;strong&gt;这是一段关系的开始，你决定将注意力在此停留。你投资的是一段关系，打造的是一个关系网络&lt;/strong&gt;，并不限于要时刻计算收益率、买了之后就想着转手的金融投资。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/14.gif&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;the-world-after-capital&quot;&gt;The world after capital&lt;/h3&gt;
+
+&lt;p&gt;之前写过一个thread[8]，我最感兴趣的、最想在未来看到的事就是让&lt;strong&gt;人的思想带来直接的价值&lt;/strong&gt;，哪怕只是纯粹的好奇心、越来越稀缺的注意力。一方面，人们的注意力必须以某种方式被“善待”，这样才会形成良性的循环，我们才会去根据自己的偏好、自主的安放自己的注意力（而不是被动的，上瘾的，被操纵的，对我说的就是抖音）。另一方面，好的产品应该寻找更匹配的注意力，去激励1000个true fans，而不是1000k个random doesnt care，在此基础上建立和发展关系网络。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/06/04/15.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;References&lt;em&gt;[1] Jennifer Zhu Scott《TED—为什么数据私有化对于普惠AI来说很重要？》&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[2] Ocean V3怎么用defi的方法价值化数据&lt;/em&gt;&lt;a href=&quot;https://www.coindesk.com/ocean-protocol-v3-data-monetization-tools-ethereum?fileGuid=cJ3Vvtt36JpXWxTX&quot;&gt;https://www.coindesk.com/ocean-protocol-v3-data-monetization-tools-ethereum&lt;/a&gt;**&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[3]good data对不同行业的贡献：&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;对AI建模**(https://www.forbes.com/sites/oluwaseunadeyanju/2020/06/19/how-decentralization-could-alleviate-data-biases-in-artificial-intelligence/?sh=3b15ece95248)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;对自动驾驶行业(&lt;/em&gt;&lt;a href=&quot;https://blog.oceanprotocol.com/ocean-protocol-decentralized-data-marketplace-solutions-for-the-automotive-industry-eb0acc238151&quot;&gt;https://blog.oceanprotocol.com/ocean-protocol-decentralized-data-marketplace-solutions-for-the-automotive-industry-eb0acc238151)&lt;/a&gt;?fileGuid=cJ3Vvtt36JpXWxTX)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;对能源行业&lt;/em&gt;(https://oceanprotocol.com/press/2020-09-15-ocean-energy-web-collaboration-announcement)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[4]https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[5]&lt;/em&gt;&lt;a href=&quot;https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/?fileGuid=cJ3Vvtt36JpXWxTX&quot;&gt;https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/&lt;/a&gt;**&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[6]&lt;/em&gt;&lt;a href=&quot;https://docs.oceanprotocol.com/concepts/projects-using-ocean/?fileGuid=cJ3Vvtt36JpXWxTX&quot;&gt;https://docs.oceanprotocol.com/concepts/projects-using-ocean/&lt;/a&gt;**&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[7] The Explicit Economics of Knowledge Codification and Tacitness, by Robin Cowan,Paul A. David, and Dominique Foray&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[8]&lt;/em&gt;&lt;a href=&quot;https://twitter.com/JESSCATE93/status/1389895654634262529?fileGuid=cJ3Vvtt36JpXWxTX&quot;&gt;https://twitter.com/JESSCATE93/status/1389895654634262529&lt;/a&gt;&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">今天这篇东西是基于这些天来对数据经济和ownershipLabs在做的事情的一些思考，主要的研究范本是Ocean protocol。第二部分则是近期对NFT和数据结合的想法。可读性差，属于不发出来会死人的那种。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/06/04/1.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/06/04/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">5分钟，穿越以太坊</title><link href="https://fat-garage.com/Ethereum-story-in-five-minutes/" rel="alternate" type="text/html" title="5分钟，穿越以太坊" /><published>2021-05-20T00:00:00-05:00</published><updated>2021-05-20T00:00:00-05:00</updated><id>https://fat-garage.com/Ethereum-story-in-five-minutes</id><content type="html" xml:base="https://fat-garage.com/Ethereum-story-in-five-minutes/">&lt;p&gt;这篇文章想要带你进入一种混合式体验，它由两部分组成，&lt;/p&gt;
+
+&lt;p&gt;•一个线上数字画展&lt;/p&gt;
+
+&lt;p&gt;•一篇作品介绍文章&lt;/p&gt;
+
+&lt;p&gt;经数字艺术家（推特：@takenstheorem）授权，我们将他的文章「ETH story in 5 minute 5分钟可视化以太坊历史」[1]译成了中文，其中包含了他的16幅作品及其文字介绍。&lt;/p&gt;
+
+&lt;p&gt;然后，我们找到了持有这些作品的部分藏家，一起在oncyber上策展。&lt;/p&gt;
+
+&lt;h4 id=&quot;oncyber-画廊&quot;&gt;oncyber 画廊&lt;/h4&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/20/2.gif&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;观展入口：&lt;a href=&quot;https://oncyber.io/underground?fileGuid=jHjqjdJXvVKQpV8Q&quot;&gt;https://oncyber.io/underground&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;部分作品介绍&quot;&gt;部分作品介绍&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;作者：takenstheorem&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;编译：Jessie、tongyu&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/20/3.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;每个可视化作品都是直接取材于链上数据，并不时穿插Cami Russo和Matt Leising书中的精彩引文，以及来自咨询和数据网站EthHub、Zima Red、The Defiant和ethereum.org等平台的一些资源。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/20/4.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;“At the start of the [2014] sale…one bitcoin bought 2,000 ether…When investors sent their bitcoin to the EthSuisse wallet…[t]hey got an Ethereum wallet and password.” (Russo, pp. 133-134)&lt;/p&gt;
+
+&lt;h4 id=&quot;wpyp染色体-wpyp-chromosome上图&quot;&gt;“WPYP染色体” WPYP Chromosome（上图）&lt;/h4&gt;
+
+&lt;p&gt;WPYP Chromosome（共4幅作品）——这个作品展示了以太坊白皮书（2013年）和黄皮书（2014年）中数千种元素的彼此链接，几乎是以太坊的全部。&lt;/p&gt;
+
+&lt;p&gt;在没有链上数据之前，以太坊就诞生在Vitalik Buterin的大脑中。为了实现这个愿景，他的白皮书被Gavin Wood系统地编写成详细的技术黄皮书。这个可视化的设计取材于原始文件——白皮书的早期版本和黄皮书的前沿版本（第一个协议规范）。”WPYP染色体”，即以太坊的核心遗传物质，是从这些作品的文字中生成的，网格中的每个想法、每个词都有一个坐标。这些网格重叠在一起，流动的思想此起彼伏，将以太坊带入现实。共有近20,000个词被投射在这个作品原件上。&lt;/p&gt;
+
+&lt;p&gt;那些大型的结点，突出了以太坊最初目标的关键概念：为区块链带来更灵活的计算（computation)、脚本和合约(contract)。从远处看，映入眼帘的是一个充斥着神秘重叠元素的网络；近距离观察，你可以从左到右，穿越于创始文字之间。在作品的PDF文件中，你可以以清晰的画质放大个别字词，并欣赏这些想法在链上表现出的总体复杂性。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/20/5.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;“On the night of July 30 [2015], Vitalik, Jeff, Gav and other developers like Vlad Zamfir were waiting for the countdown… ‘And then the network launched,’ Vitalik said.” (Leising, p. 221)&lt;/p&gt;
+
+&lt;h4 id=&quot;衔接btc-bridging-bitcoin&quot;&gt;“衔接BTC” Bridging Bitcoin&lt;/h4&gt;
+
+&lt;p&gt;衔接BTC (共6幅作品)——将众筹参与者（橙色）与他们未来的以太坊钱包（虚线）连接起来。&lt;/p&gt;
+
+&lt;p&gt;2014年以太坊公募由BTC地址36PrZ[…]主持。”BTC桥接计划 “展示了2014年购买了大约10,000或更多ETH的储户(图中橙色)。BTC交易流向这个中心地址。Vitalik Buterin关于这次公募的文章（7/22/14）指出，在销售初期，1个比特币可以兑换2000个以太坊，然后在2014年2月9日之前线性地缩减到1337个以太坊/比特币。这个网络展示了在以太坊主网启动时GENESIS钱包产生的所有可能联系——将以太坊上的钱包与比特币上对应的钱包连接起来。虚线反映了这种一致性，象征着即将到来但尚未实现的东西。它们汇聚在未来的GENESIS区块上，位于左上方。那些提交到36PrZ[……]的人等待着这一实现，他们的期望与耐人寻味的未来相交织。放大这个原始文件的PDF版本可以看到钱包地址和交易哈希值的前几个字符。&lt;/p&gt;
+
+&lt;p&gt;节点和边直接取材自链上数据的一个子集。边缘是用Davidson-Harel渲染的，这种算法将钱包地址放在这个图上。随机化是通过在Davidson-Harel中加入与36PrZ[…]的第一波交易相关的Unix时间戳以及Vitalik Buterin关于此次交易的博文（7/22/14）来实现的。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/20/6.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;“The golden child of DeFi, Uniswap, has even eclipsed popular centralized exchanges in trading volume like Coinbase Pro and Kraken.” (The Defiant)&lt;/p&gt;
+
+&lt;h4 id=&quot;循环-swapcircuit&quot;&gt;“循环” Swapcircuit&lt;/h4&gt;
+
+&lt;p&gt;Swapcircuit (共8幅作品)——这个原创系列是基于The Graph上的子图（v2）数据将Uniswap交易可视化，记录了Uniswap的 “一天”。&lt;/p&gt;
+
+&lt;p&gt;ICO热潮的灰烬中走出了DeFi，其中最突出的例子是名为Uniswap的互换交易所。Uniswap是一个去中心化的以太坊代币的自动交易平台。Uniswap说明了以太坊所谓的 “可组合性”的力量，智能合约之间相互作用，相互叠加，并创造了一个价值交换的网状结构，任何人都可以随时随地使用。新的计息代币、实用代币、稳定币等都可以在这个平台上进行交换。到2020年，它开始爆发，每天的美元交易量甚至超过主流的中心化交易所。&lt;/p&gt;
+
+&lt;p&gt;这个原创系列是基于The Graph上的子图（v2）数据将Uniswap可视化，记录了Uniswap的 “一天”——在2020年秋天，就在Uniswap的日交易量接近10亿美元的时候。这个代币互换的 “回路 “以弧形图表示，显示了一种资产流入另一种资产的过程（顺时针流动）。Unix的时间戳显示在顶部，同时还有网络图中代表的一组交换的总数量，在PDF上放大这一过程，你可以看到特定交易对token的具体流入和流出情况。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/20/7.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;“OpenSea is the first decentralized, peer-to-peer marketplace for blockchain-based assets, which include crypto collectibles, gaming items, and other assets backed by a blockchain.” (EthHub)&lt;/p&gt;
+
+&lt;h4 id=&quot;开放之海-the-opensea&quot;&gt;“开放之海” The Opensea&lt;/h4&gt;
+
+&lt;p&gt;开放之海 (共8幅作品)——以太坊上的数千件收藏品通过OpenSea进行交易买卖。整个数字商品市场，已经建立在以太坊上。&lt;/p&gt;
+
+&lt;p&gt;非同质化代币（NFTs）早在去中心化金融爆发之前就已经诞生了。事实上，最大和最有影响力的NFTs交换平台OpenSea诞生于2017年12月，仅在造成以太坊网络堵塞的NFT元祖CryptoKitties出现后不久。这个原创作品是为了纪念OpenSea平台和展示NFT空间的丰富性。它基于大约2年内近1000名收藏家的10000多件NFT作品，不同的颜色象征着这个系列的主题：复杂性。&lt;/p&gt;
+
+&lt;p&gt;非同质化代币的概念本身是复杂的，多样的，多元化的。有门票、解锁token和订阅，有游戏作品、收藏品和艺术，还有域名基础设施的实用token（ENS）等等。他们彼此差异，亦联系无穷。它们可以与其他平台中丰富的品类组合在一起并进行计算，例如本系列中Uniswap上的ERC-20代币。&lt;/p&gt;
+
+&lt;p&gt;这个作品通过将钱包及其交易投射在一个三维的球面上进行呈现，给人的印象是一个庞大到几乎是行星级的生态系统。放大PDF，可以看到一些特定NFT项目的标签和它们对应的颜色。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/20/8.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;“The metaverse is a virtual environment where people live, work, and play. You can think of it as being similar to the virtual world ‘OASIS’ in the movie Ready Player One, but instead of a central corporation controlling everything, users in the metaverse control their own assets.” (Zima Red)&lt;/p&gt;
+
+&lt;h4 id=&quot;元空间--metaverse&quot;&gt;“元空间 “ Metaverse&lt;/h4&gt;
+
+&lt;p&gt;Metaverse（共8幅作品）——这里有无限广阔的土地，同一个用户拥有的土地由这些边相连。&lt;/p&gt;
+
+&lt;p&gt;Metaverse是一个为科幻迷所熟知的概念。它在颇具影响力的小说《雪崩》中得到了突出的体现，它被描述为一个虚拟的三维现实，在这个虚拟的三维现实中，人类可以作为有别于物理世界肉体的存在。Metaverse的概念与Ethereans具有相当的文化契合，不仅是因为这种科幻血统，还因为Ethereum为人类社会带来的积极影响。以太坊正在成为一个虚拟世界和社区网络的基础协议，类似于科幻小说中的Metaverse。一些开发者团队已经基于她创建了大型游戏世界，让用户将自己嵌入化身，在以太坊区块链上拥有这片土地，并与其他用户进行类似于大型多人在线游戏的互动，甚至参与在区块链上创建、拥有和交换/交易物品（通常，作为NFTs；见 “开放之海 “系列）。&lt;/p&gt;
+
+&lt;p&gt;这个原图只是4个此类虚拟世界的部分土地样本：Decentraland（红色）、Cryptovoxels（灰色）、Somnium Space（白色）和The Sandbox（绿色）。在以太坊上，新兴的Metaverse很可能不是一个单一的景观，不是一个单一的平台，而是一个综合系统。&lt;/p&gt;
+
+&lt;p&gt;每个平台都可以利用其独特的属性和优势，而整个用户体验可以通过在世界之间制造旋涡，彼此相生相系（事实上，这已经实现了）。平台上的共有土地被不同颜色的边缘连接起来。可以看出，有数百名用户在这四个平台上同时拥有所有权。&lt;/p&gt;
+
+&lt;p&gt;放大PDF文件，可以看到所有者地址的前几个字符，每个节点代表Metaverse那一部分的一块土地。成千上万的土地连接起来，由此产生的视觉效果就像是一片虚拟世界的地图被渐渐缝合的感觉，仿佛什么谜底将要被揭开。&lt;/p&gt;
+
+&lt;p&gt;注：以上为我们挑选出的5幅作品介绍，Eth story系列全部16幅作品的翻译请见文末shimo文档[2]。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/20/9.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Eth story 全部16幅作品&lt;/p&gt;
+
+&lt;h4 id=&quot;关于艺术家-takenstheorem&quot;&gt;关于艺术家 @takenstheorem&lt;/h4&gt;
+
+&lt;p&gt;他在接受Andrew Steinwold[3]的书信采访时谈到这个笔名，“takenstheorem(塔肯斯定理) 这个名字与我的日常工作有关。我研究系统动力学，塔肯斯定理是这个领域中我最喜欢的想法。该定理也是一种关于数据力量的象征性声明。塔肯斯定理是关于我们如何从对复杂系统行为的简单测量中恢复其基本动态。该定理的力量可以简明扼要地陈述为：即使是简单和混沌的数据，在适当的条件下，也可以重建数据系统。”&lt;/p&gt;
+
+&lt;p&gt;takenstheorem是一位我和郭老师非常喜爱的匿名数字艺术家。他活跃于Twitter,Opensea和CryptoVoxels，链上数据给了他源源不断的创作动力，这种生产资料难以置信的触手可及、开放且多样。&lt;/p&gt;
+
+&lt;p&gt;naval说过，NFT终将tokenize一切[4]。而现在，它已经开始被艺术家、数据科学家，甚至是每一个看到数据价值的人，拿来书写区块链自己的历史。好的NFT对我来说，本身就是加密货币的历史。它能让人有兴趣去探求作品背后的故事，同时，&lt;/p&gt;
+
+&lt;p&gt;它又是故事本身。&lt;/p&gt;
+
+&lt;p&gt;所以，我想发起一个项目 [[blockchain art studio]] 去发掘这样的艺术家和作品（我在上一篇：艺术市场总在秘密进行最后也提到）。或者，我们想办法成为他们。有兴趣的朋友可以发email到info@fat-garage.com，我们一起探索。&lt;/p&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;[1] 原文链接:&lt;a href=&quot;https://takenstheorem.medium.com/ethereum-history-in-5-minutes-ca3aa7061397?fileGuid=jHjqjdJXvVKQpV8Q&quot;&gt;https://takenstheorem.medium.com/ethereum-history-in-5-minutes-ca3aa7061397&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] 全部16幅作品翻译 (shimo文档仍在修改)：&lt;a href=&quot;https://shimo.im/docs/rhKWhkTdvXXxPHd3/?fileGuid=jHjqjdJXvVKQpV8Q&quot;&gt;https://shimo.im/docs/rhKWhkTdvXXxPHd3/&lt;/a&gt;《Ethereum History in 5 Minutes 5分钟可视化以太坊历史》&lt;/p&gt;
+
+&lt;p&gt;[3] Andrew Steinwold对takenstheorem的采访：&lt;a href=&quot;https://andrewsteinwold.substack.com/p/takens-theorem-the-anonymous-coder?fileGuid=jHjqjdJXvVKQpV8Q&quot;&gt;https://andrewsteinwold.substack.com/p/takens-theorem-the-anonymous-coder&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4] naval关于NFT的推文：&lt;a href=&quot;https://twitter.com/naval/status/1378956359874478082?fileGuid=jHjqjdJXvVKQpV8Q&quot;&gt;https://twitter.com/naval/status/1378956359874478082&lt;/a&gt;&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">这篇文章想要带你进入一种混合式体验，它由两部分组成，</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/05/20/9.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/05/20/9.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">意识的意识</title><link href="https://fat-garage.com/the-consciousness-of-consciousness/" rel="alternate" type="text/html" title="意识的意识" /><published>2021-05-16T00:00:00-05:00</published><updated>2021-05-16T00:00:00-05:00</updated><id>https://fat-garage.com/the-consciousness-of-consciousness</id><content type="html" xml:base="https://fat-garage.com/the-consciousness-of-consciousness/">&lt;p&gt;今天读了一节Julian Jaynes所著《二分心智的崩塌：人类意识的起源》，这本书是天才编剧乔纳森·诺兰* 大多数作品的理论基础。我一开始读的时候只是出于对：&lt;strong&gt;什么是自我意识？&lt;/strong&gt;的好奇（想必大多数看过美剧疑犯追踪POI或西部世界的朋友也会有的疑问，是什么让机器宝宝/机器人有了近乎人类的意识？与人类意识的边界在哪里？blabla，然后&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/16/2.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;这和我们有什么关系？&lt;/p&gt;
+
+&lt;p&gt;有趣的是，读的过程中，我却不知觉的带入自己的经历（而非剧情），得到了其他感悟。是的，我又开始联系：Roamreserch这个&lt;a href=&quot;https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5NjQxNzQ3Mw==&amp;amp;action=getalbum&amp;amp;album_id=1525331678792040451&amp;amp;scene=173&amp;amp;subscene=91&amp;amp;sessionid=1621178931&amp;amp;enterid=1621178942&amp;amp;from_msgid=2247486122&amp;amp;from_itemidx=1&amp;amp;count=3&amp;amp;nolastread=1#wechat_redirect&quot;&gt;第二大脑&lt;/a&gt;和Julian所讨论的自我意识的关系。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*乔纳森·诺兰：美剧西部世界、POI疑犯追踪、电影星际穿越编剧&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;第一节the-consciousness-of-consciousness读书笔记&quot;&gt;第一节「the Consciousness of Consciousness」读书笔记&lt;/h1&gt;
+
+&lt;p&gt;首先铺垫一些读书笔记，这一节没有讨论意识是什么，而是讲了一些人们对意识的误解(misconception)。&lt;/p&gt;
+
+&lt;h3 id=&quot;conscious-is-not-necessary-for-experience意识对经历来说并不必要&quot;&gt;conscious is not necessary for experience 意识对经历来说并不必要&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mind is a tabula rasa. ——17th century John Locke&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;白板(tabula rasa)是一个认知论主题。其认为人的个体生来没有内在或与生俱来的心智，即是一块白板，所有的知识都是逐渐从他们的感官和经验而来。&lt;/p&gt;
+
+&lt;p&gt;有些人认为，&lt;strong&gt;意识的主要功能是储存经验，像相机可以帮你备份/copy，以供之后复盘。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;recognition和recall的区别是：你不用记住（recall）一些事情，也能轻易的发现它的变化。比如：你屋里的门是向内还是向外开？交通灯最上面灯是什么颜色？你哪根手指最长？如果不回头看，描述一下你背后那面墙上的东西？我们很少去记忆这些，你能记住的（recall）只是你实际知识的很小的一部分。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What you can consciously recall is a thimbleful to the huge ocean of your actual knowledge.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;有意识的记忆不像人们常常认为的那样，是&lt;strong&gt;对感觉画面的储存&lt;/strong&gt;。意识内省时，检索的不是图，而是你之前“记住”的东西，然后重组这些元素成更合理的&lt;strong&gt;模式&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Conscious memory is not a storing up of sensory imagines ,as is sometimes thought. Conscious retrospection is not the retrieval of images,but the retrieval of what you have been conscious of before, and reworking of these elements into rational or plausible pattern.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;比如你想找一条记在纸质书里的笔记，但只有模糊的关键词概念。当进行记忆检索的时候，一直想复盘当时看到什么情景其实作用不大。但换个角度，从你&lt;strong&gt;记住的东西&lt;/strong&gt;开始推演，反而会很快找到。&lt;/p&gt;
+
+&lt;h3 id=&quot;conscious-is-not-necessary-for-concept-意识对概念来说并不必要&quot;&gt;conscious is not necessary for concept 意识对概念来说并不必要&lt;/h3&gt;
+
+&lt;p&gt;概念是对”行为一致/相似“事物的归类。&lt;/p&gt;
+
+&lt;p&gt;直觉能力(aptic structure)*导致行为，根概念(root concepts)先于经验。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Concepts are simply classes of behaviorally equivalent things
+Root concepts are prior to experience. They are foundamental to the aptic structures that allows behavior to occur.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;*附注：”Aptic structure 是能力的神经学基础，由先天进化的Aptic范式加上发展中的经验结果组成。这个术语……是为了取代直觉(instincts)等表达不准确的词汇。它们是大脑的组织，部分是先天塑成，使有机体在某些条件下有可能以某种方式行事”。&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conscious-is-not-necessary-for-learning-意识对学习来说并不必要&quot;&gt;conscious is not necessary for learning 意识对学习来说并不必要&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;3 types of learnings 3种形式的学习&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;•&lt;strong&gt;signals 信号&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在信号式学习的过程中，意识却成了阻碍学习能力的因素。比如，你在一个正充满着赏心悦目音乐（绘画）的餐厅吃晚餐，你觉得晚餐无比好吃。此时，音乐（绘画）成为一种快乐的信号，并融合成为你的判断，你也是在学习。但是，如果提前告诉你这两者之间“有联系”，这种学习能力会神奇的消失。&lt;/p&gt;
+
+&lt;p&gt;•&lt;strong&gt;skills 技能&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在学习技能的过程中，意识也不是必要的。或者说，学习是有机的过程，而不是刻意而为。意识只是带你完成任务，给你看你要达到的目标是什么。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Learning is organic rather than conscious,consciousness takes you to the task, giving you the goal to be reached.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;举个例子，对于一些复杂技能：打字、射击&lt;/p&gt;
+
+&lt;p&gt;纠正一直错拼“the”–“hte”的最好方法是：有意识的重复练习错拼“hte”。&lt;/p&gt;
+
+&lt;p&gt;教练训练运动员的时候，会提醒他们不要“想”自己在干嘛。在射击运动中尤为如此，不要“思考”自己得用多大劲儿拉弓、如何试图射中圆心，而是&lt;strong&gt;尝试进入一种放空状态，让弓自己勾勒出弧度，让箭自然从指间挣脱出发，即是对的时间&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Zen exercise of learning the archery is explicit on this, advising the archer not to think of himself as drawing the bow and releasing the arrow, but releasing himself&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;•&lt;strong&gt;solutions 解决问题&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;意识对于确定问题（problem）有帮助，但也非必要。比如很多时候，&lt;strong&gt;人们达成了目标却说不清楚这事儿具体是怎么促成的。&lt;/strong&gt;（很多成功者，都不得不事后刻意总结自己的成功经验）&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Conscious plays a considerable role in setting up the problem but it is not necessary.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;另一个例子是：你与他人对话的时候。&lt;/p&gt;
+
+&lt;p&gt;比如，你要让坐在你对面的人不停的说某类词语，他每说一个你就记录一下。你在记录的过程中不时地称赞对方“没错！”“哈，这个好”，或以积极的语气或面部表情重复他刚刚说出的词，你会发现，他能说出更多的词。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;与他人对话的过程不仅是一个接受/交换信息的过程，更是一个（找对手）“训练自己”的过程&lt;/strong&gt;。这个过程无意识的助你达到目的，或未来某个时刻达到目的。&lt;/p&gt;
+
+&lt;p&gt;所以，“过去有意识的经历（信号、技能、解决问题）构成了学习的基础”明显站不住脚。但我们可以说，有可能的是：&lt;/p&gt;
+
+&lt;p&gt;人的学习是无意识的，但人同样可以学习并解决问题。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We can at least conclude that it is possible to conceive of human beings who are not conscious and yet can learn and solve problems.&lt;/p&gt;
+  &lt;h1 id=&quot;我们现在来联系roam&quot;&gt;我们现在来联系Roam&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我之前在和[[&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzU3NDA4MTQ3Nw==&amp;amp;mid=2247484588&amp;amp;idx=1&amp;amp;sn=946fe06bb76493930511263c5dd1099f&amp;amp;scene=21#wechat_redirect&quot;&gt;struggle with me&lt;/a&gt;]]的播客里说：roam对我来说就像是行动的触发器，在&lt;strong&gt;写的那一刻就决定了行动的开始。但是，&lt;/strong&gt;&lt;strong&gt;我说不清是为什么。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我们用一张图来还原一下上面的理论，然后看一下roam可能在哪里出现。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/16/3.png&quot; /&gt;&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/16/4.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;一张稍微顺眼点的图…&lt;/p&gt;
+
+&lt;p&gt;我们前面提到了aptic structure (暂时译为：&lt;strong&gt;直觉能力&lt;/strong&gt;)。书写(writing) 的过程产生概念(concept)，概念经过某种加工和发酵形成根概念（root concept)，根概念是aptic structure的重要组成部分，aptic structure生成判断，引发行为。&lt;/p&gt;
+
+&lt;p&gt;最终可能达到的一种状态是：做一件事，虽然说不清有什么目的，但是我知道要做。或者说，你在无意识的优化这种直觉能力：在不同情形下能快速选择采用什么样的行为（行动）。这个判断可能不是最好的，但会逐渐成为条件最优的（疑犯追踪POI SE0411 中机器利用有限的时间，经过833,333次模拟计算出的条件最优解，但还是会牺牲一个人）。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/16/5.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;疑犯追踪POI SE0411&lt;/p&gt;
+
+&lt;p&gt;第二个我觉得很有趣的是：关于organic learning。我发现自己在roam中写的大部分笔记都并非有意去写，而是自然去写。很多人会对此十分克制（或保持简洁？），我也很羡慕那些能定期去整理的人。但我觉得，这不是大脑的工作方式，&lt;strong&gt;如果roam真是第二大脑的话，无意识的写似乎更顺应它的生长。（虽然我们现在还完全达不到无意识）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;就像前面sensory imagines中讨论的。roam并不能让我在一想找到某一个笔记时就能完美复盘当时的记忆，而仅是在写下的时刻&lt;strong&gt;加深&lt;/strong&gt;记忆，当事后需要意识检索的时候，能够进行推演、定位、关联。&lt;/p&gt;
+
+&lt;p&gt;这种记忆加深不是训练我们去参加“最强大脑”，而是达到一种状态：能&lt;strong&gt;判断什么与什么之间是有关联的；哪些关联是更重要的，或终将是重要的。然后通过行为连接它们，不断的链接下去。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;读了这一节之后引发了更多的问题，比如&lt;/p&gt;
+
+&lt;p&gt;•aptic structure里面包括什么？&lt;/p&gt;
+
+&lt;p&gt;•root concepts如何形成？&lt;/p&gt;
+
+&lt;p&gt;•自我意识在哪一个环节形成？&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;读了一节就给我累趴下了哈哈，之后再更新吧。。周末愉快😊 ！&lt;/p&gt;
+
+&lt;h1 id=&quot;reference&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;[1] Julian Jaynes《二分心智的崩塌：人类意识的起源》&lt;/p&gt;
+
+&lt;p&gt;[2] Aptic Structures&lt;a href=&quot;https://nyuanshin.livejournal.com/114719.html&quot;&gt;https://nyuanshin.livejournal.com/114719.html&lt;/a&gt;&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">今天读了一节Julian Jaynes所著《二分心智的崩塌：人类意识的起源》，这本书是天才编剧乔纳森·诺兰* 大多数作品的理论基础。我一开始读的时候只是出于对：什么是自我意识？的好奇（想必大多数看过美剧疑犯追踪POI或西部世界的朋友也会有的疑问，是什么让机器宝宝/机器人有了近乎人类的意识？与人类意识的边界在哪里？blabla，然后</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/05/16/2.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/05/16/2.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">艺术市场总在秘密进行</title><link href="https://fat-garage.com/art-market-in-secret/" rel="alternate" type="text/html" title="艺术市场总在秘密进行" /><published>2021-05-10T00:00:00-05:00</published><updated>2021-05-10T00:00:00-05:00</updated><id>https://fat-garage.com/art-market-in-secret</id><content type="html" xml:base="https://fat-garage.com/art-market-in-secret/">&lt;p&gt;这是一个让我激动了半天的链上数据可视化案例。作者通过对SuperRare上887位艺术家创作的16198件NFT作品，涉及3210位收藏家和超过23000笔交易进行可视化分析。得出了以下结论：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;超过60%NFT藏家的会“购买并持有”；&lt;/li&gt;
+  &lt;li&gt;这个网络中共16,000件艺术品的任何两件艺术品（不包括122件例外）都不是通过传说中的六度分隔，而是通过不少于三个收藏家的链条联系在一起；&lt;/li&gt;
+  &lt;li&gt;这些社区（网络中的大节点集群）代表了藏家。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;但，精彩的远远不止结论。“作为一个网络科学家，当我遇到像艺术市场这样复杂的现象时，&lt;strong&gt;我倾向于研究它的隐藏结构，揭开看不见的关系网络。同时，它形成一种天然的艺术形态。”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“blockchain data art”&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/10/2.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Mark Pernice&lt;/p&gt;
+
+&lt;h1 id=&quot;正文&quot;&gt;正文&lt;/h1&gt;
+
+&lt;p&gt;作者：Albert-Laszlo Barabasi&lt;/p&gt;
+
+&lt;p&gt;翻译：Jessie&lt;/p&gt;
+
+&lt;p&gt;原文链接：见文末[1]&lt;/p&gt;
+
+&lt;p&gt;自从被称为Beeple的数字艺术家制作的NFT在3月的拍卖会上以6900万美元的价格售出以来，艺术界的观察家们一直对这种类型的作品——&lt;strong&gt;所谓的基于NFT的艺术&lt;/strong&gt;——的天价飙升感到着迷和困惑。这些是数字创作，因为它们很容易被复制和再现，所以以不可伪造的代币或NFT的形式出售，这些代币使用区块链技术来证明真实性和所有权。（Beeple的作品是他自2007年以来每天在网上发布的图片拼贴画）。&lt;/p&gt;
+
+&lt;p&gt;这种艺术的市场已经急剧增长。据Crypto Art[2]的统计数据，从2018年4月5日到今年4月15日，&lt;strong&gt;6158名艺术家售出了191,208件基于NFT的艺术品，总金额为541,378,383美元。&lt;/strong&gt;这些交易中大约有一半发生在过去的三月，造就了历史上最伟大和最突然的资产繁荣期之一。&lt;/p&gt;
+
+&lt;p&gt;作为一个艺术收藏家，每遇到一件感兴趣的艺术品，我会问自己可能会&lt;em&gt;花多少钱来拥有它&lt;/em&gt;。但作为一个网络科学家，当我遇到像艺术市场这样复杂的现象时，&lt;strong&gt;我倾向于研究它的隐藏结构&lt;/strong&gt;&lt;strong&gt;[3]&lt;/strong&gt;&lt;strong&gt;，从多个学科（物理学、社会学、计算机科学）中汲取营养，揭开看不见的关系网络，以帮助解释它如何运作以及为什么这样运作。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;从我了解到基于NFT的艺术品世界的那一刻起，我就一直在忙着做我最擅长的事情：制图——也就是分析和呈现这种所有权交易的模式，这也是该流派迅速崛起的基础所在。最终的结论是，在那些多次参与买卖的所有者之间，基于NFT的艺术市场既彼此孤立又紧密联系。网络的这些特点可能有助于解释基于NFT的艺术品价格的峰值是怎么来的。&lt;/p&gt;
+
+&lt;p&gt;NFT是一种永久性的、可靠的公共所有权的链上记录，可以与任何资产连接。今年，Twitter的首席执行官杰克(Jack Dorsey)以290万美元的价格出售了他有史以来第一条作为NFT的推文）。就基于NFT的艺术品而言，NFT包括关于 “一级 “市场的信息——创作者、第一个收藏者和销售价格——以及 “二级 “市场的记录，所有权和估值随时间的变化。在传统的艺术世界里，这种信息往往被掩盖在&lt;em&gt;秘密&lt;/em&gt;之中。&lt;/p&gt;
+
+&lt;p&gt;绘制基于NFT的艺术品所涉及的整套所有权交易需要一些时间，即使对我实验室的尖端计算机来说也是如此。但与数据科学家米兰·亚诺索夫合作，我已经发现了一些有趣的模式。&lt;/p&gt;
+
+&lt;p&gt;我们的分析是从一个叫SuperRare的网站开始的，这个网站是最早的、最著名的NFT数字艺术买卖平台之一。利用专门的算法，我们追踪了SuperRare上每一笔涉及NFT的交易。这个故事始于2018年4月5日，罗比·巴拉特发布了一幅由人工智能生成的裸体肖像，此后不久，一位名叫杰森·贝利的收藏家以176美元的价格购买了这幅肖像。根据我们的分析，到今年4月15日，887位艺术家创作的16198件作品在SuperRare网站上转让了所有权，涉及3210位收藏家和超过23000笔交易。&lt;/p&gt;
+
+&lt;h3 id=&quot;60的收藏家购买并持有&quot;&gt;60%的收藏家“购买并持有”&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;与传统艺术市场一样，这些收藏家中的大多数都是 “购买并持有”，&lt;/strong&gt;这个数字超过60%，意味着他们购买的数字艺术不会再进入市场。但与传统艺术市场一样，NFT也有一个活跃的二级市场。2020年3月，二级市场的活动占SuperRare网站销售量的9%。到今年3月，二级市场正在蓬勃发展。转售占平台上出售的艺术品的36%。&lt;/p&gt;
+
+&lt;p&gt;接下来，&lt;strong&gt;我们需要决定我们想要绘制基于NFT的艺术市场的哪些方面&lt;/strong&gt;。我们选择研究共有的模式，将每件艺术品绘制成网络中的一个节点，如果两件艺术品在其存在期间的任何时候被同一个收藏家所拥有，我们将把它们联系起来。&lt;/p&gt;
+
+&lt;p&gt;为什么要专注于共同所有权（ownership）？我们的理由是，艺术收藏家往往专注于市场的某些部分——一个特定的艺术家群体（例如，哈德逊河画派）或一个艺术运动（如印象派）、流派（如静物）或媒介（如雕塑）。因此，我们怀疑共同所有权的模式会反映出艺术品之间有意义的共同点。&lt;/p&gt;
+
+&lt;p&gt;我们的下一步是在二维物理空间中铺设网络，以便我们能够最好地观察其结构。为了做到这一点，我们通过计算机模拟网络，以尽量减少节点之间的链接总长度。这确保了我们能够清楚地看到所有权的模式。由一个收藏家拥有的艺术品必须彼此紧密排列（因为它们之间有许多链接），而由几个 “分离度”（没有两个共同的所有者，但仍然可以通过一系列的所有者进行链接）连接的艺术品则必须相距较远。那些没有通过任何所有权链与其他艺术品相连的艺术品将作为孤立的节点或孤立的群组自由漂浮。&lt;/p&gt;
+
+&lt;p&gt;我们的预感是，这个网络会显示出自己被分割成孤立的集群，每个集群都反映了收藏家对某些类型的艺术家和艺术品的专门兴趣。但我们得到的网络打破了我们的预期，显示出一个中心的、高度相互联系的结构——这个结构包含了16000多件艺术品中除122件以外的所有作品。&lt;strong&gt;为了让你感受到这个市场是多么的小众&lt;/strong&gt;，&lt;strong&gt;这个网络中的任何两件艺术品（不包括122件例外）都不是通过传说中的六度分隔，而是通过不少于三个收藏家的链条联系在一起&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;这就是这个网络的模样。&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/10/3.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;来源：foundation.app/barabasilab&lt;/p&gt;
+
+&lt;h3 id=&quot;这些社区节点代表了藏家&quot;&gt;这些社区节点代表了藏家&lt;/h3&gt;
+
+&lt;p&gt;正如你所看到的，这个网络有几个大型的、容易被发现的 “社区”——相互之间紧密联系的艺术品集群。这些社区代表什么？&lt;strong&gt;起初，我们怀疑它们是基于NFT的各种子类型的艺术作品的集合，表现出视觉或概念上的相似性，从而吸引了具有相似品味的收藏家&lt;/strong&gt;。为了验证这一猜测，我们给每个节点分配了一种颜色，对应于创作该作品的艺术家。但是，由此产生的色彩混乱并没有证实这一假设。虽然在这些社区中，似乎存在着对某些艺术家的轻微偏好，但这种模式似乎是偶然的，而不是解释性的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;然后我们探讨了另一个假设：这些社区代表了藏家&lt;/strong&gt;。这一次，我们给每个节点分配了一种颜色，对应于艺术品的当前所有者。这就是我们的曙光时刻。网络地图显示，每个社区都与一个收藏家有关。&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/10/4.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;来源：foundation.app/barabasilab&lt;/p&gt;
+
+&lt;p&gt;尽管在我们分析时，SuperRare上有3210名收藏家，但大部分艺术品都在少数投资者手中。如果你看一下一级市场，就可以很清楚地看到这一点，那里最大的集群代表了四个早期投资者购买的艺术品，他们的Twitter名是@momuscollection（深蓝色，左边），@0x123456789（粉红色，上面），@thedruid（浅蓝色，右上）和@ethsquiat（黄色，右上）。(底部的大型橙色群组具有某些属性，表明它可能代表一个不再在SuperRare上活跃的用户所拥有的作品。)&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/10/5.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;来源：foundation.app/barabasilab&lt;/p&gt;
+
+&lt;p&gt;在艺术界，少数有进取心的收藏家主导新艺术的初级市场的情况并不罕见。例如，在19世纪70年代，艺术经销商&lt;em&gt;保罗·杜兰德·鲁埃尔&lt;/em&gt;是最早认识到现代艺术潜力的人之一，他购买了5000多幅帆布画，包括大约1000幅莫奈、1500幅雷诺和800幅毕加索。但通常情况下，随着先锋派的地位上升，新的收藏家进入市场，所有权也随之多样化。&lt;/p&gt;
+
+&lt;h3 id=&quot;这种多样化还没有发生在nft的艺术世界&quot;&gt;这种多样化还没有发生在NFT的艺术世界&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;这种多样化似乎并没有发生在基于NFT的艺术世界中，至少现在还没有。&lt;/strong&gt;我们的网络地图显示，二级市场甚至比一级市场更加集中。在我们分析的过程中，两个收藏家，@0x123456789（粉红色）和@momuscollection（深蓝色），从早期投资者那里买了相当数量的作品，建立了对市场的主导地位。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/10/6.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;来源：foundation.app/barabasilab&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;为什么这个网络意义重大？&lt;/strong&gt;首先它表明，当涉及到基本的经济变量——供应和需求时，SuperRare中待售艺术品的供应受到了严格的控制。将这种受控的供应与突然涌现的对数字艺术的兴趣结合起来，你就会看到一个需求驱动的市场。SuperRare对供应也有额外的限制，它以缓慢的速度接纳新的艺术家进入其平台）。&lt;/p&gt;
+
+&lt;p&gt;但更重要的是市场的纯粹开放性。从历史上看，艺术市场一直在不透明的情况下蓬勃发展。在一级市场和二级市场购买的作品往往从公众视野中消失，最后成为私人收藏。买家往往缺乏关于可比价格、供应和市场其他相关特征的完整信息。那些拥有更多信息的人——通常是画廊老板和经销商——可以因此而发财。&lt;/p&gt;
+
+&lt;p&gt;基于NFT的艺术品为所有权和交易带来了可喜的透明度。这使得NFT不仅仅是一个小众的艺术市场。通过引入所有类型的艺术家——传统的和数字的——可以使用区块链技术来公开认证他们的作品并公开记录他们的销售历史，NFT为整个艺术市场提供公平的竞争环境，从根本上重塑艺术的交易和收藏方式。&lt;/p&gt;
+
+&lt;h1 id=&quot;后记&quot;&gt;后记&lt;/h1&gt;
+
+&lt;p&gt;翻译这篇文章是因为最近受到&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247486004&amp;amp;idx=1&amp;amp;sn=6daa343538abb8e4abe33b82ae992d37&amp;amp;chksm=fe62449ac915cd8c772e3c934d29bb8ac97ce5762e31976fe6767f7ac9d8bcc8136a478d8a58&amp;amp;scene=21#wechat_redirect&quot;&gt;郭老师&lt;/a&gt;的启发，发现了一些原生的数字艺术家（大多是数据科学家）。我们都知道区块链链上的数据自发地书写着区块链的历史，却忽视了它同时也能成就最天然的艺术形式。&lt;/p&gt;
+
+&lt;p&gt;我计划做一个系列文章&lt;em&gt;#[[blockchain data art]]&lt;/em&gt;，来发现和解读这些&lt;em&gt;基于链上数据&lt;/em&gt;创作原生NFT的艺术家和他们的作品。同时我会做一个list，用来收集这样的艺术家👾 名单。如果你有关注的人选推荐，请发邮件到info@fat-garage.com，注明&lt;strong&gt;@你的姓名+艺术家的Twitter名称+为啥喜欢他&lt;/strong&gt;等，我会把这个list的链接共享给你。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/10/7.png&quot; /&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;references&lt;/h1&gt;
+
+&lt;p&gt;[1] 原文链接：&lt;a href=&quot;https://www.nytimes.com/2021/05/07/opinion/nft-art-market.html&quot;&gt;https://www.nytimes.com/2021/05/07/opinion/nft-art-market.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2]&lt;a href=&quot;https://cryptoart.io/&quot;&gt;https://cryptoart.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] 数据的隐藏结构&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://science.sciencemag.org/content/362/6416/825/tab-figures-data&quot;&gt;https://science.sciencemag.org/content/362/6416/825/tab-figures-data&lt;/a&gt;&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">这是一个让我激动了半天的链上数据可视化案例。作者通过对SuperRare上887位艺术家创作的16198件NFT作品，涉及3210位收藏家和超过23000笔交易进行可视化分析。得出了以下结论：</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/05/10/1.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/05/10/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">为什么加密货币、DEX、NFT、DAO和AI都指向一种新的人类世界的可能性？</title><link href="https://fat-garage.com/a-new-human-world/" rel="alternate" type="text/html" title="为什么加密货币、DEX、NFT、DAO和AI都指向一种新的人类世界的可能性？" /><published>2021-05-02T00:00:00-05:00</published><updated>2021-05-02T00:00:00-05:00</updated><id>https://fat-garage.com/a-new-human-world</id><content type="html" xml:base="https://fat-garage.com/a-new-human-world/">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;作者：Thomas Hsueh&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;最近的区块链发展产生了一些新的技术基元：加密货币、DEX、NFT和DAO。&lt;/p&gt;
+
+&lt;p&gt;它们有趣的原因很多–意识形态、知性、平等主义等等。但之所以引起我的强烈兴趣，是因为它们与人工智能研究和半导体技术的持续进步一起，指出了一种新的人类世界的可能性，那就是金钱将不再耗费人们的注意力，金钱作为世界基础设施的看不见的支柱，成为“已被解决的问题”。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/02/2.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;当我回顾我的生活时，我发现随着时间的推移，我把大部分清醒的时间花在试图创造和保存金融财富上，对此我感到失望；这本身并不引起我的兴趣，但我还是被一种感知到的需要攫住了，尽管我根本上感兴趣的是想象有趣的未来版本，并为推动其实现而努力。&lt;strong&gt;我猜测文明社会中的大多数人也是如此。&lt;/strong&gt;我进一步猜测，对于大多数人来说，创造和保存金融财富（通过创造对他人有价值的商品和服务）的行为本身并不具有吸引力；它之所以有吸引力，只是因为它导致了金融财富的积累，无论是在就业合同中的确定性，还是在投资中的概率性。这个过程的趣味性是另一个问题，而且是在巧合下发生的。但为什么要积累金融财富？&lt;/p&gt;
+
+&lt;p&gt;我知道，金融财富是一个抽象的概念，因此对人类来说完全不自然。然而，我承认，当任何非微不足道的金融财富被给予我时，无论是由我的雇主还是由市场给予的，我都有一种内在的反应。这意味着金融财富的积累作为一个非自然的概念已经与生来的欲望产生联系，这意味着有一些我非常想做的事情需要一定程度的金融财富，而我却缺乏；这些未满足的欲望促使我追逐金融财富作为中介目标。但是，把醒着的大部分时间花在赚钱上（或借助令人麻木的娱乐等活动从赚钱的疲惫中恢复过来）不是很荒谬吗？&lt;/p&gt;
+
+&lt;p&gt;我相信我们可以做得更好。&lt;strong&gt;我相信有一种方法，可以通过消除我们文明中积累金融财富的需要，大大增加许多人生活的趣味性和可能性。&lt;/strong&gt;我有兴趣创造这样一个世界，在这个世界里，金融财富的积累不再是普通人关心的问题，一个富足非凡的世界。&lt;/p&gt;
+
+&lt;h1 id=&quot;为什么加密货币dexnftdao和ai都指向一种新人类世界的可能性&quot;&gt;为什么加密货币、DEX、NFT、DAO和AI都指向一种新人类世界的可能性？&lt;/h1&gt;
+
+&lt;p&gt;当人们从一个特定的角度来看待它们时，它将会更加明显。&lt;/p&gt;
+
+&lt;p&gt;来源：数字艺术家 jack butcher（twitter@jackbutcher)&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/02/3.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;加密货币&lt;/strong&gt;可以被看作是一个完全自主的金融价值计价的基础设施，被越来越多的人类人口所相信、信任和依赖；它激励人们参与增长和维持自身（例如，有利可图的采矿或质押业务）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DEX&lt;/strong&gt;可以被看作是完全自主的加密货币交换市场；它也激励人们参与，以发展和维持自身（例如，通过外部套利者完成自动再平衡的 Balancer；我去年用&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247484380&amp;amp;idx=1&amp;amp;sn=1145f85cb8990fd127e6f1a4000d399f&amp;amp;chksm=fe624d72c915c464ee904433af49d2a380c783a07b4dde93ce01978caeafb4edfb5ab46c8146&amp;amp;scene=21#wechat_redirect&quot;&gt;中文&lt;/a&gt;写过这个）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NFT&lt;/strong&gt;，就目前而言，可以被看作是区块链上的一个指针，指向在他處令人感兴趣的东西，这有点类似于内存中的一个指针，表明一个特定的数据或程序序列的位置。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DAO&lt;/strong&gt;，就目前而言，可以被看作是基于区块链的实体进行集体决策的一种原始手段。&lt;/p&gt;
+
+&lt;p&gt;最后，&lt;strong&gt;人工智能&lt;/strong&gt;可以被视为一个非常广泛的工作领域，其终极目标是创造真正的自主主体，通常是在硅基上，可能是也可能不具有物理上的体现。人工智能不仅能逐步做出智能决策（如ML术语中的判别模型，强化学习是一个强大的算法类别），而且还能创造有趣和有价值的数据（如ML术语中的生成模型，其中GAN是一个有前途的方向）。&lt;/p&gt;
+
+&lt;p&gt;结合所有这些概念，构思一个未来的版本并不牵强，在这个版本中，数字自主主體通过加密货币在DEX市场交换资产，既创造和操纵数据（非代码数字资产），程序序列（代码片段/人工智能模型），以及与NFT挂钩的现实世界资产（合同），并通过DAO集体做出决定。这个在加密货币基础设施上运行的&lt;strong&gt;自主主体层&lt;/strong&gt;可以处理金融资源分配，以及数字商品和服务以及实物商品和服务的创造和交付，其效率和说服力之高，使我们大多数人不再把心思放在积累金融财富上，就像我们大多数人不把心思放在获取水、食物、电力、流动性（由工业革命和航空进步解决）、电器（由市场机制解决）和信息（由网络技术解决）一样。&lt;/p&gt;
+
+&lt;p&gt;想象一下：有一天，我们将不再把大部分精力放在金钱上。钱成为一个 “已解决 “的问题。当然，其他某种东西将成为新的稀缺，并成为大多数人的追求对象，根据USV的阿尔伯特·温格的说法，这将是&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485489&amp;amp;idx=1&amp;amp;sn=2ed05219c27d4f8f5e80d857c2d395ac&amp;amp;chksm=fe62469fc915cf89e673c47c0a7e27547202b5fe14d0a586c8a710396a4b5741f0158f00a684&amp;amp;scene=21#wechat_redirect&quot;&gt;注意力(attention)&lt;/a&gt;[1]。&lt;/p&gt;
+
+&lt;h1 id=&quot;观察&quot;&gt;观察&lt;/h1&gt;
+
+&lt;p&gt;尽管未来似乎是不可预测的，但我们可以被动地*根据证据做出有根据的猜测，也可以主动地影响其进程。在本节中，我提供了支持上述未来版本的证据和观察。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*我们可以质疑被动性是否可能，例如，考虑到物理学的观察者效应，即使只是比喻性的。&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1---人工智能的工作量增长和持续的摩尔定律&quot;&gt;1 - 人工智能的工作量增长和持续的摩尔定律&lt;/h3&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/02/4.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;1956年，需要一个大壁橱大小的设备才能存储5兆字节的数据&lt;/p&gt;
+
+&lt;p&gt;在过去的十年里，对人工智能芯片公司的投资越来越热[2]。这有很多催化剂（摩尔定律和丹纳德扩展的放缓，硬件专业化的驱动，社交网络公司建立的大规模推荐引擎对人工智能计算效率的需求增加等等），最近的一个例子是Sambanova，它的D轮融资，估值达到了50亿美元水平。&lt;/p&gt;
+
+&lt;p&gt;另一个有希望的线索是越来越多的证据表明，光子学的潜力不仅可以恢复，而且可以涡轮增压摩尔定律。Lightmatter即将推出的产品在加速人工智能工作负荷的线性数学部分方面应用了光子学，与目前的技术水平相比 (例如 Nvidia的A100)估计能够以1/10的功率将人工智能计算速度提高10倍（即100倍的能源效率；如果采用波分复用，性能提升会更大；见最近福布斯对Lightmatter的报道[3]）光子互连进一步加速了芯片间的通信，同时节省了电力，使越来越大规模和复杂的人工智能模型得以部署。(披露：在写作时，我是Lightmatter的数字设计工程师。)&lt;/p&gt;
+
+&lt;p&gt;过去几十年整个科技行业的蓬勃发展在某种意义上是由摩尔定律从根本上推动的；如果摩尔定律的延续依赖于人工智能工作负载的优先化和专业化，那么整个科技行业也会效仿，即哪里有更高的计算能力，应用就会跟到哪里（一个比喻是在互联网泡沫期间筹集的资本建立的网络带宽的巨大盈余，后来使无数应用如社交网络得以实现）。回顾一下GPU的可用性是如何在2012年ILSVRC（AlexNet）中推动深度学习的。随着光子学将人工智能的”容量”提高了100倍，我们未来科技的很大一部分将由人工智能驱动。唯一的问题是如何驱动。&lt;/p&gt;
+
+&lt;h3 id=&quot;2---rpa&quot;&gt;2 - RPA&lt;/h3&gt;
+
+&lt;p&gt;机器人流程自动化将实现我们对「人工智能对劳动力意味着什么」的共同想象：替代。人工任务被RPA程序自动化。这清楚地表明了人类提供的服务（得到报酬、被标价的工作）如何由自动化过程，即代码来完成。&lt;/p&gt;
+
+&lt;h3 id=&quot;3---nft空间的有机演变&quot;&gt;3 - NFT空间的有机演变&lt;/h3&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/02/5.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Autoglyphs是以太坊区块链上第一个 “链上 “生成的艺术。它们是一个完全独立的机制，用于创造和拥有一件艺术品。&lt;/p&gt;
+
+&lt;p&gt;从ERC-721提案中，对NFT所能实现的最初想象是代表 “实物财产、虚拟收藏品和负值资产（如贷款）”的所有权。有两个问题从一开始就引发了激烈的争论：NFT所代表的数字内容在哪里，如果与NFT绑定的数字内容可以被公众访问和查看，那么NFT所有者真正拥有什么？第一个问题的答案是在链上（占用了通常空间有限的区块链的存储空间），或者在一个单独的存储解决方案（如IPFS）上。第二个问题的答案是&lt;strong&gt;对内容的权利，但不是内容本身&lt;/strong&gt;。有趣的是，随着生成艺术在许多领域（人工智能研究、计算机游戏和动画中的PCG技术等）的兴起，新的项目被创造出来：&lt;strong&gt;NFT与艺术品内容本身无关，而是与生成艺术品内容的过程有关&lt;/strong&gt;，而这个过程是一段紧凑的代码片段，完全包含在链上的NFT本身。Larva实验室的Autoglyph就是一个例子。&lt;/p&gt;
+
+&lt;p&gt;这篇文章[4]汇总了这个领域的其他例子（如Neolastics）。&lt;strong&gt;拥有“过程”而不是结果的权利是一个有趣的想法&lt;/strong&gt;–想象一下拥有文森特·凡高的数字克隆而不是拥有他的一件艺术品；你可以要求你的凡高克隆人创造更多的艺术品。换句话说，拥有的东西是动态的、有生命力的，这与现在NFT所代表的静态文件形成了鲜明的对比。这是从静态的屏幕截图扩展到时间维度的。&lt;/p&gt;
+
+&lt;p&gt;该领域的另一个有机发展是最近由AlphaWallet团队宣布的AlchemyNFT[5]，它允许创建和操纵合成的NFTs。所有的证据都表明，除了投机交易卡牌之外，NFT的潜力还有多少未被开发。&lt;/p&gt;
+
+&lt;h3 id=&quot;4---人工智能和游戏建立元宇宙的竞赛&quot;&gt;4 - 人工智能和游戏；建立元宇宙的竞赛&lt;/h3&gt;
+
+&lt;p&gt;为了实现真正的突发内容和自发体验，人工智能必须成为我们未来游戏的一个组成部分，或者像许多人所说的那样，当游戏规模扩大到吞噬人们的日常生活时，就是元宇宙。A16Z曾发表过一篇文章《Meet Me in Metaverse》[6]，很好地勾勒出了其中的道理，并追溯了最近在这个方向上的进展。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/02/6.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;内容发展的四个阶段，据A16z，我们正在1-2过渡&lt;/p&gt;
+
+&lt;p&gt;事实上，科技巨头们已经涉足这个方向，尽管不成功。Google Stadia已经创建了内部游戏工作室，试图创建ML驱动的游戏。最明显的例子是他们的Project Chimera（MCV/Develop[7]在2020年4月对Stadia在ML游戏开发方面的努力有一个很好的采访；见第34-38页）。亚马逊也加入舞池，杰夫·贝索斯亲自指示要 “用可笑的庞大计算量来制作游戏”。迄今为止，谷歌和亚马逊都没有在这个方向上成功发布游戏；Stadia最近关闭了其内部工作室，而亚马逊宣布了其游戏开发工作中的一系列坏消息。Facebook的RivalPeak是一个非常有趣的人工智能娱乐项目的实验，显示出早期吸引力的迹象。可以说，由于要遵循复杂的公司政治和程序，大公司无论多么强大都不会在这里取得关键进展的，因为创建由ML驱动的游戏将是一个巨大的范式转变，远离现有的游戏开发过程，需要许多灵活的试验和错误，进入未知领域。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/05/02/7.gif&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;RCT的Morpheus引擎使用深度强化学习，从自然世界的对象库中把文本渲染成3D资产和动画。此GIF显示了 “有一个人在走路 “的渲染。&lt;/p&gt;
+
+&lt;p&gt;在创业领域，位于洛杉矶和北京的RCT工作室[8]通过在游戏运行时间中加入强化学习，正在取得可喜的进展。Agence[9]是电影制作人、艺术家和谷歌的机器学习专家之间的紧密合作，制作了一部 “动态电影”，利用强化学习实现电影创作者、观众和人工智能对游戏叙事的三方共同创造。&lt;/p&gt;
+
+&lt;p&gt;从大型游戏开发商的角度来看，最近上市的Roblox[10]致力于研发部署巨大的机器学习模型。Valve的联合创始人、Steam的创造者Gabe Newell指出，由人工智能驱动的单人游戏有可能在9年后（2030年）完全超越多人游戏[11]。&lt;/p&gt;
+
+&lt;p&gt;从第一原则的角度思考，当虚拟和动态世界吞噬我们的日常生活时，这些世界中提供的商品和服务（体验）必须依靠具体的经济基础设施。我的观点很简单：&lt;strong&gt;当人工智能成为数字资产（3D模型、皮肤、音效、个性配置等）的主要生产者时，需要被代币化的不仅仅是数字资产，而是人工智能本身，无论是代码形式还是统计模型参数。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5---数据经济的出现促进了人工智能的训练&quot;&gt;5 - 数据经济的出现，促进了人工智能的训练&lt;/h3&gt;
+
+&lt;p&gt;Ocean Protocol的Trent McConaghy在2018年指出了这个方向[12]，并致力于建设数据经济。Ocean Protocol的使命是为数据资产的发布、发现和消费以及为实现保护隐私的AI训练建立市场。&lt;/p&gt;
+
+&lt;h3 id=&quot;6---个人数据爆炸的可能性bci&quot;&gt;6 - 个人数据爆炸的可能性：BCI&lt;/h3&gt;
+
+&lt;p&gt;我去年从人机共生的角度写了关于Elon Musk的NeuralLink[13]。随着BCI（脑机接口）的日益成熟和最终被人类采用，每个人的大脑数据上传带宽将大大增加，使每个人的日常心理活动、偏好和品味能交给人工智能处理。我们如何对待这些实时和细粒度的个人数据？我们必须将它们标记所有权（想象一下，如果大的科技公司拥有你的思想；你显然会要求对你的思想及其衍生品拥有所有权），而隐私是这里最值得关注的。然而，目前的NFT标准并不支持对内容的所有权，这可能与大脑数据标记化完全不相容。一种方法是通过保护隐私的压缩，如合成数据生成（通过训练统计模型匹配概率密度函数），这意味着我们不会对收集的大脑数据本身进行标记，而是对在这些大脑数据上训练的AI进行标记。&lt;/p&gt;
+
+&lt;h1 id=&quot;途径&quot;&gt;途径&lt;/h1&gt;
+
+&lt;p&gt;在这一节中，我勾勒出了创建上述版本的未来的粗略行动路线。&lt;/p&gt;
+
+&lt;p&gt;从长期愿景出发，我们将不得不创造&lt;strong&gt;去中心化自动机（decentralized automata）&lt;/strong&gt;，或DA（名称來自去中心化的自治组织DAO– DAO将由DA拥有）。DA存在于区块链上，该链上对代码执行的访问只限于其指针的所有者。DA可以将代码作为资产进行交易，并重新组装其代码库。因此，我们还需要建立一个软件/AI模型架构，它是安全的可组合、可分解和可变的。&lt;/p&gt;
+
+&lt;p&gt;短期研发是为代码/AI模型的所有权（不仅是权利的所有权，而且是使用代码/AI模型的独家使用所有权）以及其组成/分解/变异建立代币标准和经济机制。这里指的合成NFT，是为人工智能代码设计的。一个简单的概念性解决方案是将代码存储在片段中，如Filecoin的方式，其位置在每次指针换手时被重新洗牌。&lt;/p&gt;
+
+&lt;p&gt;中期研发是建立DA的软件和区块链标准。我们将促进以下方面的实现：&lt;/p&gt;
+
+&lt;p&gt;•来源控制（如Git）是为DA管理代码版本和合并代码。&lt;/p&gt;
+
+&lt;p&gt;•DA将进行代码审查过程（基于规则/基于模拟）。&lt;/p&gt;
+
+&lt;p&gt;•代码、模型和参数由DA在区块链上进行交易，以便在自己定义的指标方面进行自我提升。&lt;/p&gt;
+
+&lt;p&gt;•长期的研发是将DA和相关的DA拥有的DAO引导为一个整体的自主经济，我将其称为自主维度。&lt;/p&gt;
+
+&lt;p&gt;在这个版本的未来，&lt;strong&gt;自主维度将把最先进的问题策划成人类个体的互动挑战，人类通过克服这些挑战获得奖励&lt;/strong&gt;；奖励很可能是非财务性的（全民基本收入也由大规模接管行业的DAs实施）。这样一来，平凡的工作将全部由机器处理；人类的大部分注意力都集中在文明能力的前沿领域（文明=人类+机器）。简单地说，已解决的问题将由机器大规模处理；人类只在未解决的问题上工作。没有重复的工作；只有那些推动文明能力前沿的人，才会得到超出普遍基本收入的奖励。&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;[1]&lt;strong&gt;阿尔伯特·温格《资本后的世界》&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://worldaftercapital.org/&quot;&gt;https://worldaftercapital.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2]&lt;strong&gt;人工智能芯片投资一览&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eetimes.com/mega-investment-in-ai-chip-startups-is-justified-true-or-false/&quot;&gt;https://www.eetimes.com/mega-investment-in-ai-chip-startups-is-justified-true-or-false/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3]&lt;strong&gt;福布斯对Lightmatter的报道&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/?sh=596cc5c57260&quot;&gt;https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/?sh=596cc5c57260&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4]&lt;strong&gt;NFT与生成艺术&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/treum_io/on-chain-artwork-nfts-f0556653c9f3&quot;&gt;https://medium.com/treum_io/on-chain-artwork-nfts-f0556653c9f3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5]&lt;strong&gt;AlphaWallet团队发布的合成NFT项目AlchemyNFT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/alphawallet/alchemynft-rise-of-synthetic-nfts-320ee5fe1e04&quot;&gt;https://medium.com/alphawallet/alchemynft-rise-of-synthetic-nfts-320ee5fe1e04&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6]&lt;strong&gt;A16Z的文章《Meet Me in Metaverse》&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://a16z.com/2020/12/07/social-strikes-back-metaverse/&quot;&gt;https://a16z.com/2020/12/07/social-strikes-back-metaverse/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[7]&lt;strong&gt;MCV/Develop在2020年4月对Google Stadia的采访&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://issuu.com/bizmediauk/docs/mcv-develop_956_april_2020&quot;&gt;https://issuu.com/bizmediauk/docs/mcv-develop_956_april_2020&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[8]&lt;strong&gt;RCT studio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rct-studio.com/en-us/&quot;&gt;https://rct-studio.com/en-us/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[9]&lt;strong&gt;Agence&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.agence.ai/&quot;&gt;https://www.agence.ai/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[10]&lt;strong&gt;Roblox&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/&quot;&gt;https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[11]&lt;strong&gt;Valve的联合创始人、Steam的创造者Gabe Newell指出，由人工智能驱动的单人游戏有可能在9年后（2030年）完全超越多人游戏。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.spieltimes.com/news/gabe-newell-on-the-future-of-single-player-games-in-game-characters-to-be-as-smart-as-humans-in-nine-years/&quot;&gt;https://www.spieltimes.com/news/gabe-newell-on-the-future-of-single-player-games-in-game-characters-to-be-as-smart-as-humans-in-nine-years/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[12]&lt;strong&gt;Trent McConaghy在2018年的博客&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.oceanprotocol.com/nature-2-0-27bdf8238071&quot;&gt;https://blog.oceanprotocol.com/nature-2-0-27bdf8238071&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[13]&lt;strong&gt;Thomas的博客：解读NeuraLink&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hchsueh.com/2020/05/walkthrough-neuralink&quot;&gt;https://hchsueh.com/2020/05/walkthrough-neuralink&lt;/a&gt;&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">作者：Thomas Hsueh</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/05/02/1.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/05/02/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">一个平行的我</title><link href="https://fat-garage.com/a-parallel-me/" rel="alternate" type="text/html" title="一个平行的我" /><published>2021-04-29T00:00:00-05:00</published><updated>2021-04-29T00:00:00-05:00</updated><id>https://fat-garage.com/a-parallel-me</id><content type="html" xml:base="https://fat-garage.com/a-parallel-me/">&lt;p&gt;Naval在&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485097&amp;amp;idx=1&amp;amp;sn=4ddb5c45dfd67dda172a736101590d61&amp;amp;chksm=fe624807c915c111679bd0ee4b6448e9c8c61675e72e1610f41a12974aa043e5853fb6bfdbf2&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt;如何不靠运气变得富有（19）&lt;/a&gt;说到媒体和代码是新时代的杠杆，创造它们可以在你睡觉时帮你干活儿。&lt;/p&gt;
+
+&lt;p&gt;媒体和代码更像一个为你工作的机器人——你说啥是啥，帮你完成例行化的工作和重复性的劳动。虽然这已经很难了，算是少数人才有的能力。但我们不免会进一步幻想：&lt;/p&gt;
+
+&lt;p&gt;如果&lt;strong&gt;一个平行的我&lt;/strong&gt;(而不是🤖️)在我睡觉的时候帮我干活儿呢？&lt;/p&gt;
+
+&lt;p&gt;以下内容基于和xm姐的聊天，这个下午打开了很多脑洞🕳️ 。从一个在这两个方向都深度从业、创业的思考者的角度：关于区块链与AI的关系，以及它们将一起打造一个怎样的世界。&lt;/p&gt;
+
+&lt;h3 id=&quot;延展你的价值&quot;&gt;延展你的价值&lt;/h3&gt;
+
+&lt;p&gt;一个大胆的猜想是：数字世界的平行人会替你完成你在物理世界因为时间限制而无法实现的价值延展，或者价值捕获。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/29/2.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;比如，物理世界你要练1000个小时才能达到那种程度，拍一个包含你能力和想法的视频作品，你相信自己这方面独特的价值、期待这个创作可以带来实际的财富💰 。但因为物理世界你没那么多时间去练习（或者说时间无法加速），但是数字世界的你却可以加速这一过程，就可以想象成POI中的simulation。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/29/3.gif&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;poi simulation&lt;/p&gt;
+
+&lt;p&gt;简单的说，如果数字世界可以让&lt;strong&gt;你的价值转化为财富&lt;/strong&gt;的话，物理世界的你可以更专注于创造和挖掘价值之外的事。&lt;/p&gt;
+
+&lt;h3 id=&quot;数字时钟&quot;&gt;数字时钟&lt;/h3&gt;
+
+&lt;p&gt;当然，数字世界中的“财富（wealth）”是建立在另一种价值体系的基础上。起源于2009年比特币创造了&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzIwODA3NDI5MA==&amp;amp;mid=2652531732&amp;amp;idx=1&amp;amp;sn=85fd04fadf3f2a36c22a2fa8389c89b0&amp;amp;chksm=8ce66f49bb91e65f5d42b628c597d8a550d3959f88ce6df7d19cec8eca038914060a820d7bd3&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt;数字世界的时钟🕤 &lt;/a&gt;，揭开了无穷的开始。这个价值体系中，没有美联储、没有美元、没有政府、央行决定货币发行的中心化机构。基于工作量证明（proof of work）的机制决定了时间是唯一的锚定。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;❝&lt;/strong&gt;
+我们需要一种与时间有关的工具来创建「公认」的「排序」，并在不依赖于任何中央协调者的情况下维护「唯一的历史记录。
+——中本聪 2009
+❞&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;当有了这个统一的数字时钟后，这期间产生的价值传递的媒介也应与时间相关。我在&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485324&amp;amp;idx=1&amp;amp;sn=823a31c533d989d2db4e29f6cbb03b28&amp;amp;chksm=fe624922c915c034509add88d20010a45445ffceeba632e89ec877ee4a1634231b68b190e880&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt;人类，回到物物交换吧！&lt;/a&gt;这篇文章中说，nft是不等价交换的绝佳媒介，它凝聚着创作者的付出、创造力和&lt;strong&gt;时间&lt;/strong&gt;，更重要的是，&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;它是由创作者自己定价的，你自己value自己的时间。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;那么自然而然，决定进入这个世界的人都同意这种计价标准。如果你同意你就进来，不同意也没关系。&lt;/p&gt;
+
+&lt;h3 id=&quot;nft-vs-ft&quot;&gt;nft vs ft&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;❝&lt;/strong&gt;
+区块链是人类社会的平行社会，nft就是人类社会往链上装的过程。先从一幅画、一只猫装起…
+❞&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这看起来令人无法理解，很大程度是因为我们习惯了物理世界的计价方法。为什么一副画生成一张照片上了链就值1eth (～2500美金）？凭什么几张朋克的像素头像就值成百上千个eth？但假如我们一开始就用数字世界的原生思维去想，说白了就是把美元/法币单位先忘掉，他们只不过用了另一种token单位定价（是的，我们无法克制自己不换算成¥$）。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/29/4.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;所以我觉得现在的所有ft token（同质化代币），可能是一个很长的过渡时期的产品，我们会把它先换成usdt，再换成另一种token。我们的思维还没有适应所谓的metaverse。&lt;/p&gt;
+
+&lt;p&gt;那数字世界交换（易）的价值尺度会是什么呢？现在能想到的就是&lt;strong&gt;nft&lt;/strong&gt;。引用一个朋友的比喻，nft就像物质世界的非标资产。非标资产的意思就是，那些没法用法币很好的计价的资产，比如演员的一段表演、艺术家的一段音乐或舞蹈、作者的一篇文章等。&lt;/p&gt;
+
+&lt;h3 id=&quot;数字世界的平行人&quot;&gt;数字世界的平行人&lt;/h3&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/29/5.png&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;metahuman&lt;/p&gt;
+
+&lt;p&gt;metaverse就需要metahuman，但在数字世界被无限延展的不是你，而是&lt;strong&gt;你的价值&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;这里面有两个问题：&lt;/p&gt;
+
+&lt;h4 id=&quot;为什么要把人的价值搬到链上&quot;&gt;为什么要把人的价值搬到链上？&lt;/h4&gt;
+
+&lt;p&gt;AI：使人的价值在链上可以&lt;strong&gt;延展，被深度挖掘&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;Blockchain：使人的价值在链上&lt;strong&gt;变成财富（以token计价）。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;如何把人的价值搬到链上&quot;&gt;如何把人的价值搬到链上？&lt;/h4&gt;
+
+&lt;p&gt;这是一个非常有趣的话题。&lt;/p&gt;
+
+&lt;p&gt;xm姐说，现在有几件事情还没有做到（或出现）&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;人的价值还没有被充分映射到一条被大家所&lt;strong&gt;共同承认的链&lt;/strong&gt;上。&lt;/li&gt;
+  &lt;li&gt;人工智能的算法亟待突破。一方面算法要确保“你是你”，另一方面要确保平行人可以在数字世界一直不停地在与周围进行交互。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;但搬到链上似乎将是一个自然而然的过程，科技总会以某种方式让这一切发生，我也一直在收集这个过程中的证据。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247486078&amp;amp;idx=1&amp;amp;sn=7400a9719afa9ffd50007b41721a7eba&amp;amp;chksm=fe6244d0c915cdc6f2a0a5a1efab5ff9bb3d445e2553ae99f076f10145fc28a592dcf81571c1&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt;1&lt;/a&gt;,&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247484747&amp;amp;idx=1&amp;amp;sn=862999539b5ff6389538ed00341cdcdb&amp;amp;chksm=fe624be5c915c2f30dd2d19d1cffd0173f7f81569949c166730cc603326bb421ce05a53ae295&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt; 2&lt;/a&gt;,&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247484712&amp;amp;idx=1&amp;amp;sn=ed67702bb9e9799adccd77f92beb7e60&amp;amp;chksm=fe624b86c915c290fcf698f3132430c1c4c98f6e036701d7907b43926c104c7cb8a4c4bcc6a4&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt;3&lt;/a&gt;,&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485912&amp;amp;idx=1&amp;amp;sn=731321ae4c7c96e99da9af364ce7fbc6&amp;amp;chksm=fe624776c915ce609da3dc875d1b842e9aed4bfdf3812bdc4460a3b5290321994cc1df7dd0c4&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt; 4&lt;/a&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;一些takeaway&quot;&gt;一些takeaway&lt;/h3&gt;
+
+&lt;p&gt;在区块链的全球时间下，人显然还没有跟上它，因为无论如何，我们要睡觉、要做一些&lt;strong&gt;价值挖掘以外&lt;/strong&gt;的事情，我们的时间太有限了。这时候，当AI赋能的人的&lt;strong&gt;平行人&lt;/strong&gt;出现在区块链中的时候，她负责&lt;strong&gt;帮你把价值转化为财富&lt;/strong&gt;是一个迷人的想法。比如你擅长跳舞，在物理世界作为兴趣但无法帮你带来收入。那数字世界平行人却在用你的技能不断的交互，一旦有人想看，有人想学，她就可以展示你的技能。而这期间的交易媒介就是token。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/29/6.png&quot; /&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;❝&lt;/strong&gt;
+我们活在两个世界之间，一个已经死去（或正在死去），另一个还未形成（或正在形成） ——马修·阿诺德 19世纪
+❞&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;人对时间、空间的好奇、探索不熄，这种创造就不会停止。一方面我们将想象力延展到星际之外，并真正致力于跨越；另一方面我们也在数字世界延展着时间，挖掘人本身的价值。&lt;/p&gt;
+
+&lt;p&gt;最后，我本是要给xm姐写个招人贴，结果不小心写到现在。因为我很想还原一种&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247486137&amp;amp;idx=1&amp;amp;sn=d87f48e3fd7295e3f0fdcae388be9997&amp;amp;chksm=fe624417c915cd0177d511282d18e167f9c5841cd5214073d3e6e5b23315cfe5205ffaa18329&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt;在场&lt;/a&gt;：你将要和什么样的团队/人一起做什么样的事情👽 。&lt;/p&gt;
+
+&lt;p&gt;如果你想深入区块链的knowledge，愿意去学习、理解、解读技术之间的交集，同时充满无限的好奇心，我想不到比&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzUyMjc4NTM4NA==&amp;amp;mid=2247484887&amp;amp;idx=1&amp;amp;sn=cbcde27b1c3e259a3b16ca4a6a25967d&amp;amp;chksm=f9c7c2d0ceb04bc6aac897c9c5b2995ddb71a0371f3b1fd260311378247f7c5933dc54bc8814&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=KkkYkJyKGH9x8cwg&quot;&gt;那里&lt;/a&gt;更好的见证方式了。&lt;/p&gt;
+
+&lt;p&gt;有兴趣的朋友后台留言吧！&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">Naval在如何不靠运气变得富有（19）说到媒体和代码是新时代的杠杆，创造它们可以在你睡觉时帮你干活儿。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/04/29/5.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/04/29/5.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">在场</title><link href="https://fat-garage.com/inside/" rel="alternate" type="text/html" title="在场" /><published>2021-04-28T00:00:00-05:00</published><updated>2021-04-28T00:00:00-05:00</updated><id>https://fat-garage.com/inside</id><content type="html" xml:base="https://fat-garage.com/inside/">&lt;p&gt;翻译是一种文化行为，而不是一种文字行为。&lt;/p&gt;
+
+&lt;p&gt;我最近意识到，其实我们每个人都是一个译者。我们进行任何一种跨文化的活动，翻译文献/文章、舞者翻译舞蹈，歌者翻译音乐。有的东西虽是人类共通的东西，比如音乐中的节奏，舞蹈中身体的律动，文字中尤其是诗中朦胧的情感，但是由于文化土壤不同，需要解释，更需要还原场景（后面称为&lt;strong&gt;“在场”&lt;/strong&gt;）的解释。&lt;/p&gt;
+
+&lt;p&gt;翻译是一种学习语言的最佳实践。这句话我很早之前就知道，但理解很浅。我甚至觉得，当像deepL这样的翻译工具达到炉火纯青之时，便再也不用麻烦人类去翻译了。但是，我忘记了翻译对我们来说，本身的目的。&lt;/p&gt;
+
+&lt;p&gt;如果是仅仅传递“意思”促成交流/交易，是的 mission completed。&lt;/p&gt;
+
+&lt;p&gt;但显然，人不只是靠翻译来交流（听起来好像是在完成工作），我们通过“翻译”来了解自己，只有带入自己才能够还原场景。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;你有没有某一刻想融到一个节奏中？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我觉得，&lt;strong&gt;任何一种迫切想要传递共情的冲动或欲望，都可以是一种翻译行为&lt;/strong&gt;。那些使人热泪盈眶，拍案叫绝，在脑海中反复咀嚼乃至带入梦境的东西。每当我的心告诉我：我从未见过这么美好的东西的时候，我就知道我要“翻译”了。&lt;/p&gt;
+
+&lt;p&gt;译者选择译谁同样因为其有过相似的经历（或时间的维度上你未来会有），&lt;strong&gt;是一种共振，一种急迫的要“在场”的冲动&lt;/strong&gt;。我要还原你生活过的轨迹，即使我们未处在同一时代，物理相隔，从未有机会谋面。&lt;/p&gt;
+
+&lt;p&gt;翻译的时候，我会把自己带入那个情境中，像我之前翻译naval的「如何不靠运气变得富有」，每次最前面我自然地加一段结合自己经历的前言。&lt;/p&gt;
+
+&lt;p&gt;坦白说，有一些我译的并不好 (因为有时候不知道自己在急什么)。或者说，那个瞬间，我并不知道自己为什么要翻译，只是因为感受到了震动。就像我在&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247486114&amp;amp;idx=1&amp;amp;sn=dcd91852b9b79e45b88ca6f9030d31d6&amp;amp;chksm=fe62440cc915cd1a98f5150b71e76ff1f115aec11e8b386fbba6034c7f0b067ad960af8c5cdf&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=JJd3hQJwCtPCqGDT&quot;&gt;请以你的禅圆呼唤我&lt;/a&gt;中说到的那个起笔，&lt;strong&gt;未来的你告诉你：开始做吧&lt;/strong&gt;。但没有告诉你原因，我也不知道它会到哪里。&lt;/p&gt;
+
+&lt;h1 id=&quot;声音中的另一种语言&quot;&gt;声音中的另一种语言&lt;/h1&gt;
+
+&lt;p&gt;我在读法国诗人&amp;amp;翻译家伊夫·博纳富瓦《声音中的另一种语言》译本的时候，感受到了一种指引。这本书是在我打完疫苗后，路过一个咖啡馆时在它布满各国译本书的书架上一眼相中的。真奇怪，我明明是要去星巴克买咖啡的。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/28/2.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;路过的咖啡店，书架上各种译本&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/28/3.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;声音中的另一种语言&lt;/p&gt;
+
+&lt;p&gt;我得说，在我读的为数不多的外文译本中，南大的&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzI4MzEwMDc4Mw==&amp;amp;mid=2650707941&amp;amp;idx=1&amp;amp;sn=29aeb21c2de339811c6497d347298b18&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=JJd3hQJwCtPCqGDT&quot;&gt;两位老师（许翡玎 曹丹红）&lt;/a&gt;真的刷新了我对中文译者的认知，我第一次对一个译本不能自已。&lt;/p&gt;
+
+&lt;h3 id=&quot;言语的两个层面&quot;&gt;言语的两个层面&lt;/h3&gt;
+
+&lt;p&gt;博纳富瓦说，言语有两个层面：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;日常（ordinaire）言语&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-plain&quot;&gt;* 依赖概念性思考
+* 借助概念，我们可以创造被我们称为“涵义”的一切。因此我们才可以沟通。一说到树，你我都知道它的抽象概念（虽然你脑子里可能是楼下的树，而我脑子里可能是刚刚用过的🌲 emoji）。
+* 日常言语反映着我们最为主观的渴望、最为自由的想象，都需要通过涵义才能形成并保持自我意识。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&quot;事物的无限性&quot;&gt;事物的无限性&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-plain&quot;&gt;* 一段直接体验
+* 属于存在本质的独特性
+* 无限是[[绝对性]]的因由。绝对的事物都有自己的场所与时间
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;涵义vs无限性&quot;&gt;涵义vs无限性&lt;/h3&gt;
+
+&lt;p&gt;[[涵义]]，或者说概念性思维，会扰乱我们与自身的关系。更确切的说，它将我们与我们自身劈裂开，因为概念性思维&lt;strong&gt;放弃了&lt;/strong&gt;事物的无限性。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;一方面，在我们身上，概念性思维通过客观认识计划，以及它在充满欲望的想象中的偏移，控制了我们的智慧；另一方面，我们会认识到自己是谁，我们是存在的，独特而有限的，与某个时刻，某个场所相连。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;一方是一种抽象的思维，另一方是一种在世上的&lt;strong&gt;存在&lt;/strong&gt;。还是树的例子，&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;我当然能够念出“arbre”（树）这个单词，并且不让这个词与我的生活或你的生活产生关联。现在设想一下，我一边说着“cet arbre”（这棵树），一边想你们指出一棵树，一棵特别的树，他就在那，在你们的面前。
+于是，虽然使用的还是同一个词，但诸位通过这个词想到的，不再是我们之前被要求想象的形象与模式，而是树干，支撑着树干的树根，从树干散开的树杈，以及在一种无法描述的无序中舒展开来的树叶。这无序性是一种无法简化的方式，是它令一棵真正存在的树成为并只成为自己。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/28/4.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;看！我家楼下的那树&lt;/p&gt;
+
+&lt;p&gt;词语的第二层无限性构筑了存在，而存在最直接的例子就是：专有名词。&lt;/p&gt;
+
+&lt;h1 id=&quot;他者的觉醒创造专有名词&quot;&gt;他者的觉醒——创造「专有名词」&lt;/h1&gt;
+
+&lt;p&gt;专有名词构成了&lt;strong&gt;他者的语言（l‘ autre de la langue）&lt;/strong&gt;，它是语言中的一片场域，你努力寻求进入其中，以便停止概念性思维的简单书写。这个词语的整体会根据个人的状况而变化，从一个人到另一个人，然而正是在这种相对性上，词语创造了存在，也就是一开始就被概念消灭的东西。&lt;/p&gt;
+
+&lt;p&gt;这些专有名词，就是我们发自内心想要解读“美”的瞬间，就是有幸在场，共同经历时间和场所的人。比如，对我来说就是胖车库每一个专辑标签，写过的每一位独一无二的朋友。&lt;/p&gt;
+
+&lt;h3 id=&quot;我还想说点什么&quot;&gt;我还想说点什么&lt;/h3&gt;
+
+&lt;p&gt;所以，这篇文字还想说什么呢？胖车库之前因为翻译naval的「how to get rich」被一些人知道，虽然是一个容易被断章曲意的系列，但仔细看过的人应该知道这不是教你怎么赚钱的东西，而是一种「实践哲学」去帮助每个人实现 financial physical and mental wealthy。&lt;/p&gt;
+
+&lt;p&gt;naval最近的一期播客收录并回顾了之前关于happiness的讨论：什么是快乐？什么样的人不容易快乐？有哪些让他保持快乐的方式我们可以借鉴？我们最终会因为什么快乐？&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;happiness is&lt;strong&gt;[[PEACE]]&lt;/strong&gt;from the mind
+&lt;strong&gt;PEACE&lt;/strong&gt;is a state that everything is fine, you cannot work for it, what you can work for is [[&lt;strong&gt;UNDERSTANDING]]&lt;/strong&gt;.
+I can be more productive even though I work less hard coz I made good quality&lt;strong&gt;DECISIONS&lt;/strong&gt;. Quality of decisions is everything.
+Through pure&lt;strong&gt;[[KNOWLEDGE]]&lt;/strong&gt;we can achieve happiness while increasing our decision making capability,it will give us more time to read, it will be more effective and increase our&lt;strong&gt;UNDERSTANDING&lt;/strong&gt;and it should increase our returns and earnings which we need to be financially&lt;strong&gt;[[FREE]]&lt;/strong&gt;.——naval&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;你会发现他通过「快乐」这个话题串起了他的包括投资价值观在内的「mental model」。就这些东西必须彼此相连，构成的整个context才会有意义。&lt;/p&gt;
+
+&lt;p&gt;我之所以去翻译、去还原他的东西，少做「总结」是因为，很多时候那些context是这些观点的根基。&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/2021/04/28/5.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Naval播客谈happiness&lt;/p&gt;
+
+&lt;p&gt;前些天一个媒体朋友要翻译naval的一个关于投资的thread，他觉得naval作为一个很“有名的投资人“应该被解读。我其实很开心，发给他我翻译的naval的专辑，也表现出想要和他讨论的意愿，但显然他没什么兴趣。我其实很希望他能了解多一些，naval不仅仅是一个投资人，他对&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247483924&amp;amp;idx=1&amp;amp;sn=3f748c8437323f43af38773738df7640&amp;amp;chksm=fe624cbac915c5accf5b01fd3cef903bb54a22ecdc9799eb74e84fa427a8df49ee71e4becbc2&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=JJd3hQJwCtPCqGDT&quot;&gt;财富&lt;/a&gt;、&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485444&amp;amp;idx=1&amp;amp;sn=153195e73c4dbe614b5797df1592e31d&amp;amp;chksm=fe6246aac915cfbca85a13106cb524f5a4339b5303b5d4233b869ccb77a4e91b39e16aeec5cb&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=JJd3hQJwCtPCqGDT&quot;&gt;科学&lt;/a&gt;、&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247485340&amp;amp;idx=1&amp;amp;sn=6d1fd664e7139079111eec802838f158&amp;amp;chksm=fe624932c915c0242d45a6c53428bfc5d8d61163f4471c6fcb3b05e734d3acc289ea8d7f4fc9&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=JJd3hQJwCtPCqGDT&quot;&gt;成为自己&lt;/a&gt;、&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247484983&amp;amp;idx=1&amp;amp;sn=d970be4cdb9f83133c7eee2a5f7c43f3&amp;amp;chksm=fe624899c915c18f1a197d183bf87d844356cc1ddb5f9f322434163d95351c174d1b94738f2b&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=JJd3hQJwCtPCqGDT&quot;&gt;天使投资&lt;/a&gt;、实践哲学（正在翻译）等所有的思考融入在了这些tweet中。翻译这些字一点难度都没有，我们要传递给大家的是 “他”为什么会这样reasoning，他的mental model是什么。是的，坦白说naval的“观点”其实一点也不新鲜，也不首创。&lt;/p&gt;
+
+&lt;p&gt;不仅是这一条，twitter上面数不清的有价值的东西都没有人翻译。但是翻译“观点”这事，以后就是机器或算法做的事情，创造独一无二的“在场”才是人们的工作。很多翻译家都是榜样，像&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247484243&amp;amp;idx=1&amp;amp;sn=62497384784354487f70735e133912f6&amp;amp;chksm=fe624dfdc915c4eb2d787fbc67ff8ab670a98d45809acb7bc31803b9de7dc6ee750fd6ca20b7&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=JJd3hQJwCtPCqGDT&quot;&gt;nick szabo 之与比特币&lt;/a&gt;，naval之于&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU5NjQxNzQ3Mw==&amp;amp;mid=2247486122&amp;amp;idx=1&amp;amp;sn=b8f27d899e13d8306d538f94849e83c4&amp;amp;chksm=fe624404c915cd1276992e0a5c5661d3dc76c01c1b23f404ec3ac52dc29bbec1f78bd47c1a64&amp;amp;scene=21#wechat_redirect&amp;amp;fileGuid=JJd3hQJwCtPCqGDT&quot;&gt;《the beginning of infinity》&lt;/a&gt;，博纳富瓦之于莎士比亚的诗，南大的两位老师之于《声音中的另一种语言》…&lt;/p&gt;
+
+&lt;p&gt;所以，与其丢给人们一篇文章说这就是总结的naval的投资逻辑，还不如直接写四个大字：买比特币。我觉得媒体应该反思自己做的事情，我们要做的不只是帮人们节省时间，比拼速度，而是怎么把最好的「在场」带给人们，表达某种渴望。&lt;/p&gt;</content><author><name>jessie-li</name></author><category term="news" /><category term="home" /><category term="featured" /><summary type="html">翻译是一种文化行为，而不是一种文字行为。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fat-garage.com/assets/2021/04/28/1.png" /><media:content medium="image" url="https://fat-garage.com/assets/2021/04/28/1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
