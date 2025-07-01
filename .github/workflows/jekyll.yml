@@ -22,5 +22,5 @@ jobs:
         build_dir: docs/_site
         fqdn: fat-garage.com 
       env:
-        GH_PAT: ${{ secrets.GITHUB_PAT }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
      
